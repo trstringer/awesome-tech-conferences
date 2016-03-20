@@ -12,7 +12,7 @@
 
 # Contributions
 
-This list *needs* the participation of the community.  Know of an upcoming tech conference?  Fork the repo, make the addition, and create a pull request to add it to the list.
+This list *needs* the participation of the community.  Know of an upcoming tech conference?  Fork the repo, make the addition, and create a pull request to add it to the list.  Don't have time to fork and create a pull request?  Create an issue and somebody will add it!
 
 #### Contribution Format
 
