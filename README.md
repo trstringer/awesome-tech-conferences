@@ -12,7 +12,7 @@
 
 ## November 2016
 
-(November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
+:star: (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
 
 # Contributions
 
@@ -21,3 +21,5 @@ This list *needs* the participation of the community.  Know of an upcoming tech 
 #### Contribution Format
 
 `(<date>) <conference-name-with-link> (<location>) - <short-conference-description>`
+
+> :bulb: add a :star: emoji for newly added conferences so that frequent visitors can see what's new.  After, say, a week I'll clear that star to keep it consistent.
