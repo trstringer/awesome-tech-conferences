@@ -2,6 +2,10 @@
 
 *A curated list of upcoming technical conferences*
 
+## May 2016
+
+(May 4 - 6) [RailsConf](http://railsconf.com/) (Kansas City, KS) - Rails and Ruby, with other related frameworks
+
 ## June 2016
 
 (June 19 - 21) [NodePDX](http://nodepdx.org/) (Portland, OR) - JavaScript, Node.js, and programmable hardware
