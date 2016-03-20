@@ -10,6 +10,8 @@
 
 ## June 2016
 
+:star: (June 9-10) [GeekOut](http://geekout.ee/) (Tallinn, Estonia) - Everything around the Java and JVM's ecosystem
+
 (June 19 - 21) [NodePDX](http://nodepdx.org/) (Portland, OR) - JavaScript, Node.js, and programmable hardware
 
 ## July 2016
