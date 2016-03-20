@@ -5,6 +5,7 @@
 ## May 2016
 
 :star: (May 4 - 6) [RailsConf](http://railsconf.com/) (Kansas City, KS) - Rails and Ruby, with other related frameworks
+:star: (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
 
 ## June 2016
 
