@@ -8,7 +8,11 @@
 
 ## July 2016
 
-(July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source 
+(July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
+
+## November 2016
+
+(November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
 
 # Contributions
 
