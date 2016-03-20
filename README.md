@@ -4,7 +4,7 @@
 
 ## May 2016
 
-(May 4 - 6) [RailsConf](http://railsconf.com/) (Kansas City, KS) - Rails and Ruby, with other related frameworks
+:star: (May 4 - 6) [RailsConf](http://railsconf.com/) (Kansas City, KS) - Rails and Ruby, with other related frameworks
 
 ## June 2016
 
@@ -24,6 +24,6 @@ This list *needs* the participation of the community.  Know of an upcoming tech 
 
 #### Contribution Format
 
-`(<date>) <conference-name-with-link> (<location>) - <short-conference-description>`
+`:star: (<date>) <conference-name-with-link> (<location>) - <short-conference-description>`
 
 > :bulb: add a :star: emoji for newly added conferences so that frequent visitors can see what's new.  After, say, a week I'll clear that star to keep it consistent.
