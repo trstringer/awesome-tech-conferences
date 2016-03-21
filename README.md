@@ -46,6 +46,9 @@
 
 :star: (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
 
+## December 2016
+:star: (December 27-30) [33rd Chaos Communication Congress](https://events.ccc.de/) (Hamburg, Germany) - Annual conference organized by the Chaos Computer Club (Security, Cryptography, Privacy and online Freedom of Speech)
+
 # Contributions
 
 This list *needs* the participation of the community.  Know of an upcoming tech conference?  Fork the repo, make the addition, and create a pull request to add it to the list.  Don't have time to fork and create a pull request?  Create an issue and somebody will add it!
