@@ -38,6 +38,8 @@
 
 (June 19 - 21) [NodePDX](http://nodepdx.org/) (Portland, OR) - JavaScript, Node.js, and programmable hardware
 
+:star: (June 22-24) [KCDC](http://www.kcdc.info/#!/) (Kansas City, MO) - Multi-track event that covers all aspects of software development, design and project management.
+
 ## July 2016
 
 (July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
