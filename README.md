@@ -2,9 +2,31 @@
 
 *A curated list of upcoming technical conferences*
 
+## March 2016
+
+:star: (May 28–30) [EmberConf](http://emberconf.com/) (Portland, Oregon) - The flagship event of the Ember community
+
+## April 2016
+
+:star: (April 1) [Fronteers](https://fronteers.nl/congres/2016-spring) (Amsterdam, Netherlands) - single-day front-end conference
+
+:star: (April 2) [Space City JS](https://fronteers.nl/congres/2016-spring) (Houston, Texas) - Focused on the rigor of JavaScript and the web platform
+
+:star: (April 4-6) [An Event Apart](http://aneventapart.com/event/seattle-2016) (Seattle, Washington) - Learning session for passionate practitioners of standards-based web design
+
+:star: (April 5-6) [SmashingConf](http://smashingconf.com/) (San Francisco, California) - Practical insights, tips, tricks and techniques
+
+:star: (April 6-8) [Le Web a Quebec](http://www.webaquebec.org/) (Quebec, Canada)
+
+:star: (April 7) [WebVisions](http://www.webvisionsevent.com/) (New York City, New York) - The future of the web
+
+:star: (April 15-16) [JSConf](http://www.webvisionsevent.com/) (Montevideo, Uruguay)
+
 ## May 2016
 
 :star: (May 4 - 6) [RailsConf](http://railsconf.com/) (Kansas City, KS) - Rails and Ruby, with other related frameworks
+
+:star: (May 4 - 6) [NG-Conf](https://www.ng-conf.org/#/) (Salt Lake City, Utah) - Angular JS conference
 
 :star: (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
 
