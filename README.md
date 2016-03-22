@@ -36,6 +36,8 @@
 
 ## June 2016
 
+:star: (June 8-11) [BSDCan](https://www.bsdcan.org/2016/) (Ottawa, Canada) - 4.4BSD based operating systems and related projects
+
 :star: (June 9-10) [GeekOut](http://geekout.ee/) (Tallinn, Estonia) - Everything around the Java and JVM's ecosystem
 
 (June 19 - 21) [NodePDX](http://nodepdx.org/) (Portland, OR) - JavaScript, Node.js, and programmable hardware
@@ -51,6 +53,8 @@
 ## September 2016
 
 :star: (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
+
+:star: (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
 
 ## November 2016
 
