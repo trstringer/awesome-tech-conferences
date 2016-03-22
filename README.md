@@ -56,6 +56,10 @@
 
 :star: (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
 
+## October 2016
+
+:star: (October 25 - 28) [SQL PASS Summit](http://www.sqlpass.org/summit/2016/Welcome.aspx) (Seattle, WA) - the world's largest gathering of SQL Server and BI professionals
+
 ## November 2016
 
 :star: (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
