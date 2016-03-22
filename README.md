@@ -30,6 +30,8 @@
 
 :star: (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
 
+:star: (May 22 - 24) [WriteTheDocs NA](http://www.writethedocs.org/conf/na/2016/) (Portland, OR) - Explore the art and science of documentation
+
 :star: (May 28 - June 5) [PyCon](https://us.pycon.org/2016/) (Portland, OR) - By the Python community for the Python community
 
 ## June 2016
@@ -45,6 +47,10 @@
 (July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
 
 :star: (July 17 - 24) [EuroPython](https://ep2016.europython.eu/) (Bilbao, Spain) - the largest Python conference in Europe
+
+## September 2016
+
+:star: (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
 
 ## November 2016
 
