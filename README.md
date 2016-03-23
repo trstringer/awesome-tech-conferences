@@ -30,6 +30,8 @@
 
 :star: (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
 
+:star: (May 16 - 19) [Open Source Convention (OSCON)](http://conferences.oreilly.com/oscon/open-source-us) (Austin, TX) - Discussion around free and open source software
+
 :star: (May 22 - 24) [WriteTheDocs NA](http://www.writethedocs.org/conf/na/2016/) (Portland, OR) - Explore the art and science of documentation
 
 :star: (May 28 - June 5) [PyCon](https://us.pycon.org/2016/) (Portland, OR) - By the Python community for the Python community
