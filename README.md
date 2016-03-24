@@ -40,6 +40,7 @@
 ## August 2016
 
  - (August 3 - 5) [CascadiaFest](http://2016.cascadiajs.com/) (Semiahmoo, WA) - community-driven conference surrounding JavaScript and CSS
+ - :space_invader: (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
 
 ## September 2016
 
