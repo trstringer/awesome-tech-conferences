@@ -15,6 +15,7 @@
  - (April 6-8) [Le Web a Quebec](http://www.webaquebec.org/) (Quebec, Canada)
  - (April 7) [WebVisions](http://www.webvisionsevent.com/) (New York City, New York) - The future of the web
  - (April 15-16) [JSConf](http://www.webvisionsevent.com/) (Montevideo, Uruguay)
+ - (April 22) [dotSecurity](http://www.dotsecurity.io/) (Paris, France) - The Security Conference for Developers
 
 ## May 2016
 
