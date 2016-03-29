@@ -55,6 +55,7 @@
 
 ## November 2016
 
+ - :star: (November 28 - 29) [JS Kongress](http://js-kongress.de/) (Munich, Germany) - JavaScript for web, hardware, and games
  - (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
 
 ## December 2016
