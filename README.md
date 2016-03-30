@@ -16,6 +16,7 @@
  - (April 7) [WebVisions](http://www.webvisionsevent.com/) (New York City, New York) - The future of the web
  - (April 15-16) [JSConf](http://www.webvisionsevent.com/) (Montevideo, Uruguay)
  - (April 22) [dotSecurity](http://www.dotsecurity.io/) (Paris, France) - The Security Conference for Developers
+ - (April 30) [NoVA Code Camp 2016](http://novacodecamp.org/) (Reston, Virginia, US) - By Developers, For Developers
 
 ## May 2016
 
