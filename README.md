@@ -33,6 +33,7 @@
  - (June 9-10) [GeekOut](http://geekout.ee/) (Tallinn, Estonia) - Everything around the Java and JVM's ecosystem
  - (June 19 - 21) [NodePDX](http://nodepdx.org/) (Portland, OR) - JavaScript, Node.js, and programmable hardware
  - (June 22-24) [KCDC](http://www.kcdc.info/#!/) (Kansas City, MO) - Multi-track event that covers all aspects of software development, design and project management.
+ - (June 27-28) [Wicked Good Ember](https://wickedgoodember.com/) (Thompson Island, Boston) - A two-day, one track Ember.js conference held on Thompson Island in Boston, Massachusetts
 
 ## July 2016
 
@@ -44,7 +45,7 @@
 
  - (August 3 - 5) [CascadiaFest](http://2016.cascadiajs.com/) (Semiahmoo, WA) - community-driven conference surrounding JavaScript and CSS
  - :star: (August 8 - 10) [That Conference](https://www.thatconference.com/) (Wisconsin Dells, WI) - Geek out on everything Mobile, Web & Cloud in over 150 sessions. All at a giant waterpark, so bring the family.
- - :star: (August 12 - 14) [Code on the Beach](https://www.codeonthebeach.com/) (Atlantic Beach, Florida) - Developer conference at a resort on the beach 
+ - :star: (August 12 - 14) [Code on the Beach](https://www.codeonthebeach.com/) (Atlantic Beach, Florida) - Developer conference at a resort on the beach
  - :star: (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
 
 ## September 2016
