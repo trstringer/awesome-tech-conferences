@@ -42,6 +42,8 @@
 ## August 2016
 
  - (August 3 - 5) [CascadiaFest](http://2016.cascadiajs.com/) (Semiahmoo, WA) - community-driven conference surrounding JavaScript and CSS
+ - :star: (August 8 - 10) [That Conference](https://www.thatconference.com/) (Wisconsin Dells, WI) - Geek out on everything Mobile, Web & Cloud in over 150 sessions. All at a giant waterpark, so bring the family.
+ - :star: (August 12 - 14) [Code on the Beach](https://www.codeonthebeach.com/) (Atlantic Beach, Florida) - Developer conference at a resort on the beach 
  - :star: (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
 
 ## September 2016
@@ -52,6 +54,7 @@
 ## October 2016
 
  - (October 25 - 28) [SQL PASS Summit](http://www.sqlpass.org/summit/2016/Welcome.aspx) (Seattle, WA) - the world's largest gathering of SQL Server and BI professionals
+ - :star: (October 26 - 27) [All Things Open](http://allthingsopen.org/) (Raleigh, NC) - A conference exploring open source
 
 ## November 2016
 
