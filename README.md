@@ -37,12 +37,12 @@
 
  - (July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
  - (July 17 - 24) [EuroPython](https://ep2016.europython.eu/) (Bilbao, Spain) - the largest Python conference in Europe
- - :star: (July 22 - 23) [Open Source & Feelings](http://www.osfeels.com/) (Seattle, WA) - the intersection between software and humanities, as well as community engagement
+ - (July 22 - 23) [Open Source & Feelings](http://www.osfeels.com/) (Seattle, WA) - the intersection between software and humanities, as well as community engagement
 
 ## August 2016
 
  - (August 3 - 5) [CascadiaFest](http://2016.cascadiajs.com/) (Semiahmoo, WA) - community-driven conference surrounding JavaScript and CSS
- - :star: (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
+ - (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
 
 ## September 2016
 
@@ -55,7 +55,7 @@
 
 ## November 2016
 
- - :star: (November 28 - 29) [JS Kongress](http://js-kongress.de/) (Munich, Germany) - JavaScript for web, hardware, and games
+ - (November 28 - 29) [JS Kongress](http://js-kongress.de/) (Munich, Germany) - JavaScript for web, hardware, and games
  - (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
 
 ## December 2016
