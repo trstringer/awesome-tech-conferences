@@ -4,7 +4,7 @@
 
 ## March 2016
 
- - (May 28–30) [EmberConf](http://emberconf.com/) (Portland, Oregon) - The flagship event of the Ember community
+ - (March 28–30) [EmberConf](http://emberconf.com/) (Portland, Oregon) - The flagship event of the Ember community
 
 ## April 2016
 
@@ -16,13 +16,16 @@
  - (April 7) [WebVisions](http://www.webvisionsevent.com/) (New York City, New York) - The future of the web
  - (April 15-16) [JSConf](http://www.webvisionsevent.com/) (Montevideo, Uruguay)
  - (April 22) [dotSecurity](http://www.dotsecurity.io/) (Paris, France) - The Security Conference for Developers
+ - (April 30) [NoVA Code Camp 2016](http://novacodecamp.org/) (Reston, Virginia, US) - By Developers, For Developers
 
 ## May 2016
 
+ - (May 2 - 8) [Techweek: Detroit](http://techweek.com/detroit/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (May 4 - 6) [RailsConf](http://railsconf.com/) (Kansas City, KS) - Rails and Ruby, with other related frameworks
  - (May 4 - 6) [NG-Conf](https://www.ng-conf.org/#/) (Salt Lake City, Utah) - Angular JS conference
  - (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
  - (May 16 - 19) [Open Source Convention (OSCON)](http://conferences.oreilly.com/oscon/open-source-us) (Austin, TX) - Discussion around free and open source software
+ -  :star: (May 20 - 22) [JandBeyond (JAB)](http://jandbeyond.org) (Barcelona, Spain) - Joomla! Developer and Sitebuilder Conference
  - (May 22 - 24) [WriteTheDocs NA](http://www.writethedocs.org/conf/na/2016/) (Portland, OR) - Explore the art and science of documentation
  - (May 28 - June 5) [PyCon](https://us.pycon.org/2016/) (Portland, OR) - By the Python community for the Python community
 
@@ -31,34 +34,44 @@
  - (June 8-11) [BSDCan](https://www.bsdcan.org/2016/) (Ottawa, Canada) - 4.4BSD based operating systems and related projects
  - (June 9-10) [GeekOut](http://geekout.ee/) (Tallinn, Estonia) - Everything around the Java and JVM's ecosystem
  - (June 19 - 21) [NodePDX](http://nodepdx.org/) (Portland, OR) - JavaScript, Node.js, and programmable hardware
+ - (June 20 - 26) [Techweek: Chicago](http://techweek.com/chicago/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (June 22-24) [KCDC](http://www.kcdc.info/#!/) (Kansas City, MO) - Multi-track event that covers all aspects of software development, design and project management.
+ - (June 27-28) [Wicked Good Ember](https://wickedgoodember.com/) (Thompson Island, Boston) - A two-day, one track Ember.js conference held on Thompson Island in Boston, Massachusetts
 
 ## July 2016
 
  - (July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
  - (July 17 - 24) [EuroPython](https://ep2016.europython.eu/) (Bilbao, Spain) - the largest Python conference in Europe
  - (July 22 - 23) [Open Source & Feelings](http://www.osfeels.com/) (Seattle, WA) - the intersection between software and humanities, as well as community engagement
+ - (July 25 - 31) [Techweek: Toronto](http://techweek.com/toronto/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
 
 ## August 2016
 
  - (August 3 - 5) [CascadiaFest](http://2016.cascadiajs.com/) (Semiahmoo, WA) - community-driven conference surrounding JavaScript and CSS
+ - (August 8 - 10) [That Conference](https://www.thatconference.com/) (Wisconsin Dells, WI) - Geek out on everything Mobile, Web & Cloud in over 150 sessions. All at a giant waterpark, so bring the family.
+ - (August 12 - 14) [Code on the Beach](https://www.codeonthebeach.com/) (Atlantic Beach, Florida) - Developer conference at a resort on the beach
  - (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
 
 ## September 2016
 
+ - (September 12 - 18) [Techweek: Kansas City](http://techweek.com/kansascity/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
  - (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
 
 ## October 2016
-
+ - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (October 25 - 28) [SQL PASS Summit](http://www.sqlpass.org/summit/2016/Welcome.aspx) (Seattle, WA) - the world's largest gathering of SQL Server and BI professionals
+ - :star: (October 26 - 27) [All Things Open](http://allthingsopen.org/) (Raleigh, NC) - A conference exploring open source
 
 ## November 2016
 
+ - (November 7 - 13) [Techweek: Miami](http://techweek.com/miami/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
+ - (November 14 - 20) [Techweek: Dallas](http://techweek.com/dallas/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (November 28 - 29) [JS Kongress](http://js-kongress.de/) (Munich, Germany) - JavaScript for web, hardware, and games
  - (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
 
 ## December 2016
+ - (November 28 - December 4) [Techweek: Los Angeles](http://techweek.com/losangeles/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (December 27-30) [33rd Chaos Communication Congress](https://events.ccc.de/) (Hamburg, Germany) - Annual conference organized by the Chaos Computer Club (Security, Cryptography, Privacy and online Freedom of Speech)
 
 # Contributions
