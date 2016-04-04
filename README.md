@@ -4,17 +4,17 @@
 
 ## March 2016
 
- - (March 28–30) [EmberConf](http://emberconf.com/) (Portland, Oregon) - The flagship event of the Ember community
+ - (March 28 – 30) [EmberConf](http://emberconf.com/) (Portland, Oregon) - The flagship event of the Ember community
 
 ## April 2016
 
  - (April 1) [Fronteers](https://fronteers.nl/congres/2016-spring) (Amsterdam, Netherlands) - single-day front-end conference
  - (April 2) [Space City JS](https://fronteers.nl/congres/2016-spring) (Houston, Texas) - Focused on the rigor of JavaScript and the web platform
- - (April 4-6) [An Event Apart](http://aneventapart.com/event/seattle-2016) (Seattle, Washington) - Learning session for passionate practitioners of standards-based web design
- - (April 5-6) [SmashingConf](http://smashingconf.com/) (San Francisco, California) - Practical insights, tips, tricks and techniques
- - (April 6-8) [Le Web a Quebec](http://www.webaquebec.org/) (Quebec, Canada)
+ - (April 4 - 6) [An Event Apart](http://aneventapart.com/event/seattle-2016) (Seattle, Washington) - Learning session for passionate practitioners of standards-based web design
+ - (April 5 - 6) [SmashingConf](http://smashingconf.com/) (San Francisco, California) - Practical insights, tips, tricks and techniques
+ - (April 6 - 8) [Le Web a Quebec](http://www.webaquebec.org/) (Quebec, Canada)
  - (April 7) [WebVisions](http://www.webvisionsevent.com/) (New York City, New York) - The future of the web
- - (April 15-16) [JSConf](http://www.webvisionsevent.com/) (Montevideo, Uruguay)
+ - (April 15 - 16) [JSConf](http://www.webvisionsevent.com/) (Montevideo, Uruguay)
  - (April 22) [dotSecurity](http://www.dotsecurity.io/) (Paris, France) - The Security Conference for Developers
  - (April 30) [NoVA Code Camp 2016](http://novacodecamp.org/) (Reston, Virginia, US) - By Developers, For Developers
 
@@ -25,18 +25,18 @@
  - (May 4 - 6) [NG-Conf](https://www.ng-conf.org/#/) (Salt Lake City, Utah) - Angular JS conference
  - (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
  - (May 16 - 19) [Open Source Convention (OSCON)](http://conferences.oreilly.com/oscon/open-source-us) (Austin, TX) - Discussion around free and open source software
- -  :star: (May 20 - 22) [JandBeyond (JAB)](http://jandbeyond.org) (Barcelona, Spain) - Joomla! Developer and Sitebuilder Conference
+ - (May 20 - 22) [JandBeyond (JAB)](http://jandbeyond.org) (Barcelona, Spain) - Joomla! Developer and Sitebuilder Conference
  - (May 22 - 24) [WriteTheDocs NA](http://www.writethedocs.org/conf/na/2016/) (Portland, OR) - Explore the art and science of documentation
  - (May 28 - June 5) [PyCon](https://us.pycon.org/2016/) (Portland, OR) - By the Python community for the Python community
 
 ## June 2016
 
- - (June 8-11) [BSDCan](https://www.bsdcan.org/2016/) (Ottawa, Canada) - 4.4BSD based operating systems and related projects
- - (June 9-10) [GeekOut](http://geekout.ee/) (Tallinn, Estonia) - Everything around the Java and JVM's ecosystem
+ - (June 8 - 11) [BSDCan](https://www.bsdcan.org/2016/) (Ottawa, Canada) - 4.4BSD based operating systems and related projects
+ - (June 9 - 10) [GeekOut](http://geekout.ee/) (Tallinn, Estonia) - Everything around the Java and JVM's ecosystem
  - (June 19 - 21) [NodePDX](http://nodepdx.org/) (Portland, OR) - JavaScript, Node.js, and programmable hardware
  - (June 20 - 26) [Techweek: Chicago](http://techweek.com/chicago/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
- - (June 22-24) [KCDC](http://www.kcdc.info/#!/) (Kansas City, MO) - Multi-track event that covers all aspects of software development, design and project management.
- - (June 27-28) [Wicked Good Ember](https://wickedgoodember.com/) (Thompson Island, Boston) - A two-day, one track Ember.js conference held on Thompson Island in Boston, Massachusetts
+ - (June 22 - 24) [KCDC](http://www.kcdc.info/#!/) (Kansas City, MO) - Multi-track event that covers all aspects of software development, design and project management.
+ - (June 27 - 28) [Wicked Good Ember](https://wickedgoodember.com/) (Thompson Island, Boston) - A two-day, one track Ember.js conference held on Thompson Island in Boston, Massachusetts
 
 ## July 2016
 
@@ -61,7 +61,7 @@
 ## October 2016
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (October 25 - 28) [SQL PASS Summit](http://www.sqlpass.org/summit/2016/Welcome.aspx) (Seattle, WA) - the world's largest gathering of SQL Server and BI professionals
- - :star: (October 26 - 27) [All Things Open](http://allthingsopen.org/) (Raleigh, NC) - A conference exploring open source
+ - (October 26 - 27) [All Things Open](http://allthingsopen.org/) (Raleigh, NC) - A conference exploring open source
 
 ## November 2016
 
@@ -72,7 +72,7 @@
 
 ## December 2016
  - (November 28 - December 4) [Techweek: Los Angeles](http://techweek.com/losangeles/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
- - (December 27-30) [33rd Chaos Communication Congress](https://events.ccc.de/) (Hamburg, Germany) - Annual conference organized by the Chaos Computer Club (Security, Cryptography, Privacy and online Freedom of Speech)
+ - (December 27 - 30) [33rd Chaos Communication Congress](https://events.ccc.de/) (Hamburg, Germany) - Annual conference organized by the Chaos Computer Club (Security, Cryptography, Privacy and online Freedom of Speech)
 
 # Contributions
 
