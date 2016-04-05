@@ -42,6 +42,7 @@
 
  - (July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
  - (July 17 - 24) [EuroPython](https://ep2016.europython.eu/) (Bilbao, Spain) - the largest Python conference in Europe
+ - :star: (July 18 - 20) [DjangoCon](https://2016.djangocon.us/) (Philadelphia, PA) - Django conference for the community by the community
  - (July 22 - 23) [Open Source & Feelings](http://www.osfeels.com/) (Seattle, WA) - the intersection between software and humanities, as well as community engagement
  - (July 25 - 31) [Techweek: Toronto](http://techweek.com/toronto/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
 
