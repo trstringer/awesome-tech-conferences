@@ -37,6 +37,7 @@
  - (June 20 - 26) [Techweek: Chicago](http://techweek.com/chicago/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (June 22 - 24) [KCDC](http://www.kcdc.info/#!/) (Kansas City, MO) - Multi-track event that covers all aspects of software development, design and project management.
  - (June 27 - 28) [Wicked Good Ember](https://wickedgoodember.com/) (Thompson Island, Boston) - A two-day, one track Ember.js conference held on Thompson Island in Boston, Massachusetts
+ - :star: (June 30 - July 2) [PolyConf](http://polyconf.com/) (Poznan, PL) - Advanced technologies for programmers interested in polyglot programming
 
 ## July 2016
 
