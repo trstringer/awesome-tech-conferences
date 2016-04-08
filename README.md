@@ -15,6 +15,7 @@
  - (April 6 - 8) [Le Web a Quebec](http://www.webaquebec.org/) (Quebec, Canada)
  - (April 7) [WebVisions](http://www.webvisionsevent.com/) (New York City, New York) - The future of the web
  - (April 15 - 16) [JSConf](http://www.webvisionsevent.com/) (Montevideo, Uruguay)
+ - :star: (April 16) [DevRelCon](http://sf2016.devrel.net) (San Francisco, CA) - 1 day conference for evangelists, dev advocates, and developer relations
  - (April 22) [dotSecurity](http://www.dotsecurity.io/) (Paris, France) - The Security Conference for Developers
  - (April 30) [NoVA Code Camp 2016](http://novacodecamp.org/) (Reston, Virginia, US) - By Developers, For Developers
 
