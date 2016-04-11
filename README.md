@@ -28,7 +28,7 @@
  - (May 16 - 19) [Open Source Convention (OSCON)](http://conferences.oreilly.com/oscon/open-source-us) (Austin, TX) - Discussion around free and open source software
  - (May 20 - 22) [JandBeyond (JAB)](http://jandbeyond.org) (Barcelona, Spain) - Joomla! Developer and Sitebuilder Conference
  - (May 22 - 24) [WriteTheDocs NA](http://www.writethedocs.org/conf/na/2016/) (Portland, OR) - Explore the art and science of documentation
- - (May 26 - 28) [Moonconf](http://moonconf.org/) (Boulder, CO) - A celebration of functional programming and community
+ - :star: (May 26 - 28) [Moonconf](http://moonconf.org/) (Boulder, CO) - A celebration of functional programming and community
  - (May 28 - June 5) [PyCon](https://us.pycon.org/2016/) (Portland, OR) - By the Python community for the Python community
 
 ## June 2016
