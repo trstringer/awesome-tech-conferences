@@ -44,6 +44,7 @@
 ## July 2016
 
  - (July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
+ - :star: (July 11 - 13) [GopherCon](https://gophercon.com/) (Denver, CO) - Largest event in the world dedicated to the Go programming language
  - (July 17 - 24) [EuroPython](https://ep2016.europython.eu/) (Bilbao, Spain) - the largest Python conference in Europe
  - :star: (July 18 - 20) [DjangoCon](https://2016.djangocon.us/) (Philadelphia, PA) - Django conference for the community by the community
  - (July 22 - 23) [Open Source & Feelings](http://www.osfeels.com/) (Seattle, WA) - the intersection between software and humanities, as well as community engagement
@@ -63,6 +64,7 @@
  - (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
 
 ## October 2016
+ - :star: (October 10) [dotGo](http://www.dotgo.eu/) (Paris, France) - The European Go conference
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (October 25 - 28) [SQL PASS Summit](http://www.sqlpass.org/summit/2016/Welcome.aspx) (Seattle, WA) - the world's largest gathering of SQL Server and BI professionals
  - :star: (October 25 - 28) [OpenStack Summit](https://www.openstack.org/summit/barcelona-2016/) (Barcelona, Spain) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
