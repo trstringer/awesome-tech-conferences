@@ -17,6 +17,7 @@
  - (April 15 - 16) [JSConf](http://www.webvisionsevent.com/) (Montevideo, Uruguay)
  - :star: (April 16) [DevRelCon](http://sf2016.devrel.net) (San Francisco, CA) - 1 day conference for evangelists, dev advocates, and developer relations
  - (April 22) [dotSecurity](http://www.dotsecurity.io/) (Paris, France) - The Security Conference for Developers
+ - :star: (April 25 - 29) [OpenStack Summit] (Austin, TX) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
  - (April 30) [NoVA Code Camp 2016](http://novacodecamp.org/) (Reston, Virginia, US) - By Developers, For Developers
 
 ## May 2016
@@ -64,6 +65,7 @@
 ## October 2016
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (October 25 - 28) [SQL PASS Summit](http://www.sqlpass.org/summit/2016/Welcome.aspx) (Seattle, WA) - the world's largest gathering of SQL Server and BI professionals
+ - :star: (October 25 - 28) [OpenStack Summit](https://www.openstack.org/summit/barcelona-2016/) (Barcelona, Spain) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
  - (October 26 - 27) [All Things Open](http://allthingsopen.org/) (Raleigh, NC) - A conference exploring open source
 
 ## November 2016
