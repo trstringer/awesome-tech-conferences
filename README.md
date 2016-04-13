@@ -15,9 +15,9 @@
  - (April 6 - 8) [Le Web a Quebec](http://www.webaquebec.org/) (Quebec, Canada)
  - (April 7) [WebVisions](http://www.webvisionsevent.com/) (New York City, New York) - The future of the web
  - (April 15 - 16) [JSConf](http://www.webvisionsevent.com/) (Montevideo, Uruguay)
- - :star: (April 16) [DevRelCon](http://sf2016.devrel.net) (San Francisco, CA) - 1 day conference for evangelists, dev advocates, and developer relations
+ - (April 16) [DevRelCon](http://sf2016.devrel.net) (San Francisco, CA) - 1 day conference for evangelists, dev advocates, and developer relations
  - (April 22) [dotSecurity](http://www.dotsecurity.io/) (Paris, France) - The Security Conference for Developers
- - :star: (April 25 - 29) [OpenStack Summit] (Austin, TX) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
+ - (April 25 - 29) [OpenStack Summit] (Austin, TX) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
  - (April 30) [NoVA Code Camp 2016](http://novacodecamp.org/) (Reston, Virginia, US) - By Developers, For Developers
 
 ## May 2016
@@ -29,7 +29,7 @@
  - (May 16 - 19) [Open Source Convention (OSCON)](http://conferences.oreilly.com/oscon/open-source-us) (Austin, TX) - Discussion around free and open source software
  - (May 20 - 22) [JandBeyond (JAB)](http://jandbeyond.org) (Barcelona, Spain) - Joomla! Developer and Sitebuilder Conference
  - (May 22 - 24) [WriteTheDocs NA](http://www.writethedocs.org/conf/na/2016/) (Portland, OR) - Explore the art and science of documentation
- - :star: (May 26 - 28) [Moonconf](http://moonconf.org/) (Boulder, CO) - A celebration of functional programming and community
+ - (May 26 - 28) [Moonconf](http://moonconf.org/) (Boulder, CO) - A celebration of functional programming and community
  - (May 28 - June 5) [PyCon](https://us.pycon.org/2016/) (Portland, OR) - By the Python community for the Python community
 
 ## June 2016
@@ -40,14 +40,14 @@
  - (June 20 - 26) [Techweek: Chicago](http://techweek.com/chicago/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (June 22 - 24) [KCDC](http://www.kcdc.info/#!/) (Kansas City, MO) - Multi-track event that covers all aspects of software development, design and project management.
  - (June 27 - 28) [Wicked Good Ember](https://wickedgoodember.com/) (Thompson Island, Boston) - A two-day, one track Ember.js conference held on Thompson Island in Boston, Massachusetts
- - :star: (June 30 - July 2) [PolyConf](http://polyconf.com/) (Poznan, PL) - Advanced technologies for programmers interested in polyglot programming
+ - (June 30 - July 2) [PolyConf](http://polyconf.com/) (Poznan, PL) - Advanced technologies for programmers interested in polyglot programming
 
 ## July 2016
 
  - (July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
- - :star: (July 11 - 13) [GopherCon](https://gophercon.com/) (Denver, CO) - Largest event in the world dedicated to the Go programming language
+ - (July 11 - 13) [GopherCon](https://gophercon.com/) (Denver, CO) - Largest event in the world dedicated to the Go programming language
  - (July 17 - 24) [EuroPython](https://ep2016.europython.eu/) (Bilbao, Spain) - the largest Python conference in Europe
- - :star: (July 18 - 20) [DjangoCon](https://2016.djangocon.us/) (Philadelphia, PA) - Django conference for the community by the community
+ - (July 18 - 20) [DjangoCon](https://2016.djangocon.us/) (Philadelphia, PA) - Django conference for the community by the community
  - (July 22 - 23) [Open Source & Feelings](http://www.osfeels.com/) (Seattle, WA) - the intersection between software and humanities, as well as community engagement
  - (July 25 - 31) [Techweek: Toronto](http://techweek.com/toronto/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
 
@@ -65,10 +65,10 @@
  - (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
 
 ## October 2016
- - :star: (October 10) [dotGo](http://www.dotgo.eu/) (Paris, France) - The European Go conference
+ - (October 10) [dotGo](http://www.dotgo.eu/) (Paris, France) - The European Go conference
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (October 25 - 28) [SQL PASS Summit](http://www.sqlpass.org/summit/2016/Welcome.aspx) (Seattle, WA) - the world's largest gathering of SQL Server and BI professionals
- - :star: (October 25 - 28) [OpenStack Summit](https://www.openstack.org/summit/barcelona-2016/) (Barcelona, Spain) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
+ - (October 25 - 28) [OpenStack Summit](https://www.openstack.org/summit/barcelona-2016/) (Barcelona, Spain) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
  - (October 26 - 27) [All Things Open](http://allthingsopen.org/) (Raleigh, NC) - A conference exploring open source
 
 ## November 2016
