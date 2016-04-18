@@ -17,7 +17,7 @@
  - (April 15 - 16) [JSConf](http://www.webvisionsevent.com/) (Montevideo, Uruguay)
  - (April 16) [DevRelCon](http://sf2016.devrel.net) (San Francisco, CA) - 1 day conference for evangelists, dev advocates, and developer relations
  - (April 22) [dotSecurity](http://www.dotsecurity.io/) (Paris, France) - The Security Conference for Developers
- - (April 25 - 29) [OpenStack Summit] (Austin, TX) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
+ - (April 25 - 29) [OpenStack Summit](https://www.openstack.org/summit/austin-2016/) (Austin, TX) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
  - (April 30) [NoVA Code Camp 2016](http://novacodecamp.org/) (Reston, Virginia, US) - By Developers, For Developers
 
 ## May 2016
