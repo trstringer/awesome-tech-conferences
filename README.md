@@ -71,6 +71,7 @@
  - (October 25 - 28) [SQL PASS Summit](http://www.sqlpass.org/summit/2016/Welcome.aspx) (Seattle, WA) - the world's largest gathering of SQL Server and BI professionals
  - (October 25 - 28) [OpenStack Summit](https://www.openstack.org/summit/barcelona-2016/) (Barcelona, Spain) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
  - (October 26 - 27) [All Things Open](http://allthingsopen.org/) (Raleigh, NC) - A conference exploring open source
+ - (October 28 - 29) [WebCamp Zagreb 2016](https://2016.webcampzg.org/) (Zagreb, Croatia) - Technology oriented conference for developers & designers
 
 ## November 2016
 
