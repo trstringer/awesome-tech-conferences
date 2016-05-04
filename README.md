@@ -27,6 +27,7 @@
  - (May 4 - 6) [NG-Conf](https://www.ng-conf.org/#/) (Salt Lake City, Utah) - Angular JS conference
  - (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
  - (May 16 - 19) [Open Source Convention (OSCON)](http://conferences.oreilly.com/oscon/open-source-us) (Austin, TX) - Discussion around free and open source software
+ - :star: (May 21) [DEVit Conference](http://devitconf.org/) (Thessaloniki, Greece) - A 360° world-class software development conference about Frontend, Backend, DevOps and Mobile, organised by the most active, independent, non-profit, local organizations
  - (May 20 - 22) [JandBeyond (JAB)](http://jandbeyond.org) (Barcelona, Spain) - Joomla! Developer and Sitebuilder Conference
  - (May 22 - 24) [WriteTheDocs NA](http://www.writethedocs.org/conf/na/2016/) (Portland, OR) - Explore the art and science of documentation
  - (May 26 - 28) [Moonconf](http://moonconf.org/) (Boulder, CO) - A celebration of functional programming and community
