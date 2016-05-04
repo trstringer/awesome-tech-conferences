@@ -34,6 +34,7 @@
 
 ## June 2016
 
+ - (June 6 - 10) [NDC Oslo](http://ndcoslo.com/) (Oslo, Norway) - NDC Oslo 2016 will once again be held at the Oslo Spektrum in the heart of Oslo.
  - (June 8 - 11) [BSDCan](https://www.bsdcan.org/2016/) (Ottawa, Canada) - 4.4BSD based operating systems and related projects
  - (June 9 - 10) [GeekOut](http://geekout.ee/) (Tallinn, Estonia) - Everything around the Java and JVM's ecosystem
  - (June 19 - 21) [NodePDX](http://nodepdx.org/) (Portland, OR) - JavaScript, Node.js, and programmable hardware
