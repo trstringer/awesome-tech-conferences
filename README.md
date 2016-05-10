@@ -31,6 +31,7 @@
  - (May 20 - 22) [JandBeyond (JAB)](http://jandbeyond.org) (Barcelona, Spain) - Joomla! Developer and Sitebuilder Conference
  - (May 22 - 24) [WriteTheDocs NA](http://www.writethedocs.org/conf/na/2016/) (Portland, OR) - Explore the art and science of documentation
  - (May 26 - 28) [Moonconf](http://moonconf.org/) (Boulder, CO) - A celebration of functional programming and community
+ - :star: (May 27) [Upfront 2016](http://upfrontconf.com/) (Manchester, UK) - a frontend conference for web developers
  - (May 28 - June 5) [PyCon](https://us.pycon.org/2016/) (Portland, OR) - By the Python community for the Python community
 
 ## June 2016
