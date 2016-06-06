@@ -27,17 +27,17 @@
  - (May 4 - 6) [NG-Conf](https://www.ng-conf.org/#/) (Salt Lake City, Utah) - Angular JS conference
  - (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
  - (May 16 - 19) [Open Source Convention (OSCON)](http://conferences.oreilly.com/oscon/open-source-us) (Austin, TX) - Discussion around free and open source software
- - :star: (May 20) [DEVit Conference](http://devitconf.org/) (Thessaloniki, Greece) - A 360° world-class software development conference about Frontend, Backend, DevOps and Mobile, organised by the most active, independent, non-profit, local organizations
+ - (May 20) [DEVit Conference](http://devitconf.org/) (Thessaloniki, Greece) - A 360° world-class software development conference about Frontend, Backend, DevOps and Mobile, organised by the most active, independent, non-profit, local organizations
  - (May 20 - 22) [JandBeyond (JAB)](http://jandbeyond.org) (Barcelona, Spain) - Joomla! Developer and Sitebuilder Conference
  - (May 22 - 24) [WriteTheDocs NA](http://www.writethedocs.org/conf/na/2016/) (Portland, OR) - Explore the art and science of documentation
  - (May 26 - 28) [Moonconf](http://moonconf.org/) (Boulder, CO) - A celebration of functional programming and community
- - :star: (May 27) [Upfront 2016](http://upfrontconf.com/) (Manchester, UK) - a frontend conference for web developers
+ - (May 27) [Upfront 2016](http://upfrontconf.com/) (Manchester, UK) - a frontend conference for web developers
  - (May 28 - June 5) [PyCon](https://us.pycon.org/2016/) (Portland, OR) - By the Python community for the Python community
 
 ## June 2016
 
  - (June 6 - 10) [NDC Oslo](http://ndcoslo.com/) (Oslo, Norway) - NDC Oslo 2016 will once again be held at the Oslo Spektrum in the heart of Oslo.
- - :star: (June 7 - 9) [dotnet Conf](http://www.dotnetconf.net/) (Virtual) - Learn to develope across multiple platforms with .NET!  This includes .NET Core, Roslyn, Visual Studio, Xamarin, and more!
+ - (June 7 - 9) [dotnet Conf](http://www.dotnetconf.net/) (Virtual) - Learn to develope across multiple platforms with .NET!  This includes .NET Core, Roslyn, Visual Studio, Xamarin, and more!
  - (June 8 - 11) [BSDCan](https://www.bsdcan.org/2016/) (Ottawa, Canada) - 4.4BSD based operating systems and related projects
  - (June 9 - 10) [GeekOut](http://geekout.ee/) (Tallinn, Estonia) - Everything around the Java and JVM's ecosystem
  - (June 19 - 21) [NodePDX](http://nodepdx.org/) (Portland, OR) - JavaScript, Node.js, and programmable hardware
@@ -79,7 +79,7 @@
 ## November 2016
 
  - (November 7 - 13) [Techweek: Miami](http://techweek.com/miami/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
- - :star: (November 7 - 8) [Velocity](http://conferences.oreilly.com/velocity/devops-web-performance-eu) (Amsterdam, The Netherlands) - web performance, DevOps, web ops sessions surrounding resilient web apps
+ - (November 7 - 8) [Velocity](http://conferences.oreilly.com/velocity/devops-web-performance-eu) (Amsterdam, The Netherlands) - web performance, DevOps, web ops sessions surrounding resilient web apps
  - (November 14 - 20) [Techweek: Dallas](http://techweek.com/dallas/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (November 28 - 29) [JS Kongress](http://js-kongress.de/) (Munich, Germany) - JavaScript for web, hardware, and games
  - (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
