@@ -81,6 +81,7 @@
  - (November 7 - 13) [Techweek: Miami](http://techweek.com/miami/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (November 7 - 8) [Velocity](http://conferences.oreilly.com/velocity/devops-web-performance-eu) (Amsterdam, The Netherlands) - web performance, DevOps, web ops sessions surrounding resilient web apps
  - (November 14 - 20) [Techweek: Dallas](http://techweek.com/dallas/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
+ - :star: (November 18 - 19) [NodeConf Argentina](https://2016.nodeconf.com.ar/index.html) (Buenos Aires, Argentina) - Node.js conference for all things Node.js and JavaScript
  - (November 28 - 29) [JS Kongress](http://js-kongress.de/) (Munich, Germany) - JavaScript for web, hardware, and games
  - (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
 
