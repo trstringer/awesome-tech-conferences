@@ -71,6 +71,7 @@
 ## October 2016
  - (October 10) [dotGo](http://www.dotgo.eu/) (Paris, France) - The European Go conference
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
+ - :star: (October 17 - 18) [Polymer Summit 2016](https://www.polymer-project.org/1.0/) (London) - Code labs and talks by the Polymer team
  - (October 25 - 28) [SQL PASS Summit](http://www.sqlpass.org/summit/2016/Welcome.aspx) (Seattle, WA) - the world's largest gathering of SQL Server and BI professionals
  - (October 25 - 28) [OpenStack Summit](https://www.openstack.org/summit/barcelona-2016/) (Barcelona, Spain) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
  - (October 26 - 27) [All Things Open](http://allthingsopen.org/) (Raleigh, NC) - A conference exploring open source
@@ -81,7 +82,7 @@
  - (November 7 - 13) [Techweek: Miami](http://techweek.com/miami/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (November 7 - 8) [Velocity](http://conferences.oreilly.com/velocity/devops-web-performance-eu) (Amsterdam, The Netherlands) - web performance, DevOps, web ops sessions surrounding resilient web apps
  - (November 14 - 20) [Techweek: Dallas](http://techweek.com/dallas/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
- - :star: (November 18 - 19) [NodeConf Argentina](https://2016.nodeconf.com.ar/index.html) (Buenos Aires, Argentina) - Node.js conference for all things Node.js and JavaScript
+ - (November 18 - 19) [NodeConf Argentina](https://2016.nodeconf.com.ar/index.html) (Buenos Aires, Argentina) - Node.js conference for all things Node.js and JavaScript
  - (November 28 - 29) [JS Kongress](http://js-kongress.de/) (Munich, Germany) - JavaScript for web, hardware, and games
  - (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
 
