@@ -62,6 +62,7 @@
  - (August 8 - 10) [That Conference](https://www.thatconference.com/) (Wisconsin Dells, WI) - Geek out on everything Mobile, Web & Cloud in over 150 sessions. All at a giant waterpark, so bring the family.
  - :star: (August 10 - 12) [Midwest JS](http://www.midwestjs.com/) (Minneapolis, MN) - Midwest JS is a premier technology conference focused on the JavaScript ecosystem.
  - (August 12 - 14) [Code on the Beach](https://www.codeonthebeach.com/) (Atlantic Beach, Florida) - Developer conference at a resort on the beach
+ - (August 18 - 20) [Abstractions](http://abstractions.io/) (Pittsburgh, PA) - Abstractions is a new conference that brings together everyone involved in modern software development — designers, developers, DevOps, and community leaders — to teach, learn, and connect with each other.
  - (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
 
 ## September 2016
