@@ -55,6 +55,7 @@
  - (July 22 - 23) [Open Source & Feelings](http://www.osfeels.com/) (Seattle, WA) - the intersection between software and humanities, as well as community engagement
  - :star: (July 30) [npm.camp](http://npm.camp/) (Oakland, CA) - a community conference for all things npm
  - (July 25 - 31) [Techweek: Toronto](http://techweek.com/toronto/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
+ - (July 29) [ForwardJS](https://forwardjs.com/) (San Francisco, CA) - Web Technology Summit
 
 ## August 2016
 
