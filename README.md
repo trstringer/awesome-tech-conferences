@@ -59,6 +59,7 @@
 
  - (August 3 - 5) [CascadiaFest](http://2016.cascadiajs.com/) (Semiahmoo, WA) - community-driven conference surrounding JavaScript and CSS
  - (August 8 - 10) [That Conference](https://www.thatconference.com/) (Wisconsin Dells, WI) - Geek out on everything Mobile, Web & Cloud in over 150 sessions. All at a giant waterpark, so bring the family.
+ - :star: (August 10 - 12) [Midwest JS](http://www.midwestjs.com/) (Minneapolis, MN) - Midwest JS is a premier technology conference focused on the JavaScript ecosystem.
  - (August 12 - 14) [Code on the Beach](https://www.codeonthebeach.com/) (Atlantic Beach, Florida) - Developer conference at a resort on the beach
  - (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
 
@@ -80,6 +81,7 @@
 
 ## November 2016
 
+ - :star: (November 3 - 4) [Thunder Plains](http://thunderplainsconf.com/) (Oklahoma City, OK) - Thunder Plains is a web and mobile developer conference organized by Techlahoma. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
  - (November 7 - 13) [Techweek: Miami](http://techweek.com/miami/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (November 7 - 8) [Velocity](http://conferences.oreilly.com/velocity/devops-web-performance-eu) (Amsterdam, The Netherlands) - web performance, DevOps, web ops sessions surrounding resilient web apps
  - (November 14 - 20) [Techweek: Dallas](http://techweek.com/dallas/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
