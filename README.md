@@ -67,6 +67,7 @@
 ## September 2016
 
  - (September 12 - 18) [Techweek: Kansas City](http://techweek.com/kansascity/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
+ - :star: (September 17) [RustFest](http://www.rustfest.eu/) (Berlin, Germany) - conference all about the Rust language
  - (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
  - (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
 
@@ -78,6 +79,7 @@
  - (October 25 - 28) [OpenStack Summit](https://www.openstack.org/summit/barcelona-2016/) (Barcelona, Spain) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
  - (October 26 - 27) [All Things Open](http://allthingsopen.org/) (Raleigh, NC) - A conference exploring open source
  - :star: (October 28 - 28) [Reactive Conf](https://reactiveconf.com/) (Bratislava, Slovakia) - Web development, JavaScript, and open source software from industry leaders
+ - :star: (October 27 - 28) [Rust Belt Rust](http://www.rust-belt-rust.com/) (Pittsburgh, PA) - a conference for all levels of Rust developers
  - (October 28 - 29) [WebCamp Zagreb 2016](https://2016.webcampzg.org/) (Zagreb, Croatia) - Technology oriented conference for developers & designers
 
 ## November 2016
