@@ -91,6 +91,7 @@
  - :star: (November 3 - 4) [Thunder Plains](http://thunderplainsconf.com/) (Oklahoma City, OK) - Thunder Plains is a web and mobile developer conference organized by Techlahoma. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
  - (November 7 - 13) [Techweek: Miami](http://techweek.com/miami/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (November 7 - 8) [Velocity](http://conferences.oreilly.com/velocity/devops-web-performance-eu) (Amsterdam, The Netherlands) - web performance, DevOps, web ops sessions surrounding resilient web apps
+ - :star: (November 11 - 12) [SeaGL](http://seagl.org/) (Seattle, Washington, USA) - All things GNU/Linux and free/libre/open-source software/hardware. Diverse audience, from hobbyists and students to experts.
  - (November 14 - 20) [Techweek: Dallas](http://techweek.com/dallas/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (November 18 - 19) [NodeConf Argentina](https://2016.nodeconf.com.ar/index.html) (Buenos Aires, Argentina) - Node.js conference for all things Node.js and JavaScript
  - (November 28 - 29) [JS Kongress](http://js-kongress.de/) (Munich, Germany) - JavaScript for web, hardware, and games
