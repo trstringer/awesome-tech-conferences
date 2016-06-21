@@ -2,7 +2,7 @@
 
 *A curated list of upcoming technical conferences*
 
-**This list is possible because of *your* contributions!  [Please contribute](#Contributions)!**
+**This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
 ## December 2016
