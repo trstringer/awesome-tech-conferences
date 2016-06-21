@@ -7,6 +7,7 @@
 
 ## December 2016
  - (November 28 - December 4) [Techweek: Los Angeles](http://techweek.com/losangeles/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
+ - :star: (December 4 - 9) [LISA16](https://www.usenix.org/conference/lisa16) (Boston, MA, USA) - USENIX LISA conference for IT operations, where systems engineers, operations professionals, and academic researchers share real-world knowledge about designing, building, and maintaining the critical systems of our interconnected world.
  - (December 27 - 30) [33rd Chaos Communication Congress](https://events.ccc.de/) (Hamburg, Germany) - Annual conference organized by the Chaos Computer Club (Security, Cryptography, Privacy and online Freedom of Speech)
 
 ## November 2016
