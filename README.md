@@ -22,6 +22,7 @@
  - (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
 
 ## October 2016
+ - (October 6 - 8) [Pixels Camp](http://pixels.camp/) (Lisbon, Portugal) - 3 days of non-stop tech, talks, workshops and a 48 hour programming competition
  - (October 10) [dotGo](http://www.dotgo.eu/) (Paris, France) - The European Go conference
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (October 17 - 18) [Polymer Summit 2016](https://www.polymer-project.org/1.0/) (London) - Code labs and talks by the Polymer team
@@ -37,6 +38,7 @@
 
  - (September 9 - 10) [RustConf](http://rustconf.com/) (Portland, OR) - A day of trainings and a day of talks on the Rust programming language
  - (September 12 - 18) [Techweek: Kansas City](http://techweek.com/kansascity/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
+ - (September 15 - 18) [Node.js Interactive: Europe](http://events.linuxfoundation.org/events/node-interactive-europe) (Amsterdam, Netherlands) - Node.js Interactive Europe 2016
  - (September 17) [RustFest](http://www.rustfest.eu/) (Berlin, Germany) - conference all about the Rust language
  - (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
  - (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
