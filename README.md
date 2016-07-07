@@ -6,7 +6,7 @@
 ***
 
 ## May 2017
- - :star: (May 5) [Stir Trek](http://stirtrek.com) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
+ - :star: (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
 
 ## January 2017
  - :star: (January 10 - 13) [CodeMash](http://codemash.org) (Sandusky, Ohio) - A unique event that will educate developers on current practices, methodologies, and technology trends in a variety of platforms and development languages such as Java, .NET, Ruby, Python and PHP.
