@@ -37,6 +37,7 @@
 
  - (September 9 - 10) [RustConf](http://rustconf.com/) (Portland, OR) - A day of trainings and a day of talks on the Rust programming language
  - (September 12 - 18) [Techweek: Kansas City](http://techweek.com/kansascity/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
+ - :star: (September 15 - 16) [SymfonyLive](http://london2016.live.symfony.com/) (London, UK) - best practices, experience, knowledge and the latest developments with the framework
  - (September 17) [RustFest](http://www.rustfest.eu/) (Berlin, Germany) - conference all about the Rust language
  - (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
  - (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
