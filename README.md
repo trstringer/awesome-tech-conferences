@@ -38,6 +38,7 @@
 
  - (September 9 - 10) [RustConf](http://rustconf.com/) (Portland, OR) - A day of trainings and a day of talks on the Rust programming language
  - (September 12 - 18) [Techweek: Kansas City](http://techweek.com/kansascity/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
+ - :star: (September 13 - 15) [GitHub Universe](http://githubuniverse.com/) (San Francisco, CA) - open source software, community conference focusing on the future of development 
  - (September 15 - 18) [Node.js Interactive: Europe](http://events.linuxfoundation.org/events/node-interactive-europe) (Amsterdam, Netherlands) - Node.js Interactive Europe 2016
  - (September 17) [RustFest](http://www.rustfest.eu/) (Berlin, Germany) - conference all about the Rust language
  - (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
