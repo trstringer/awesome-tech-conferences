@@ -1,4 +1,4 @@
-# Awesome Tech Conferences
+# Awesome Tech Conferences ![https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge.svg](https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge.svg)
 
 *A curated list of upcoming technical conferences*
 
