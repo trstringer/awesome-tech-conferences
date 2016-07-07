@@ -5,6 +5,13 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
+## May 2017
+ - :star: (May 5) [Stir Trek](http://stirtrek.com) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
+
+## January 2017
+ - :star: (January 10 - 13) [CodeMash](http://codemash.org) (Sandusky, Ohio) - A unique event that will educate developers on current practices, methodologies, and technology trends in a variety of platforms and development languages such as Java, .NET, Ruby, Python and PHP.
+
+
 ## December 2016
  - (November 28 - December 4) [Techweek: Los Angeles](http://techweek.com/losangeles/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (December 4 - 9) [LISA16](https://www.usenix.org/conference/lisa16) (Boston, MA, USA) - USENIX LISA conference for IT operations, where systems engineers, operations professionals, and academic researchers share real-world knowledge about designing, building, and maintaining the critical systems of our interconnected world.
@@ -82,6 +89,7 @@
  - (May 2 - 8) [Techweek: Detroit](http://techweek.com/detroit/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (May 4 - 6) [RailsConf](http://railsconf.com/) (Kansas City, KS) - Rails and Ruby, with other related frameworks
  - (May 4 - 6) [NG-Conf](https://www.ng-conf.org/#/) (Salt Lake City, Utah) - Angular JS conference
+  - :star: (May 5) [Stir Trek](https://www.stirtrek.com/) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by a movie on opening day.
  - (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
  - (May 16 - 19) [Open Source Convention (OSCON)](http://conferences.oreilly.com/oscon/open-source-us) (Austin, TX) - Discussion around free and open source software
  - (May 20) [DEVit Conference](http://devitconf.org/) (Thessaloniki, Greece) - A 360° world-class software development conference about Frontend, Backend, DevOps and Mobile, organised by the most active, independent, non-profit, local organizations
