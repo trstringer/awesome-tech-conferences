@@ -42,6 +42,7 @@
  - (September 15 - 18) [Node.js Interactive: Europe](http://events.linuxfoundation.org/events/node-interactive-europe) (Amsterdam, Netherlands) - Node.js Interactive Europe 2016
  - (September 17) [RustFest](http://www.rustfest.eu/) (Berlin, Germany) - conference all about the Rust language
  - (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
+ - :cactus: (September 22) [Bytes](http://www.bytesconf.co.uk/) (Brighton, England) - An affordable, web-industry focused mini-conference raising money for charities.
  - (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
 
 ## August 2016
