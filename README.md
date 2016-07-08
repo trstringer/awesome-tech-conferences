@@ -5,6 +5,13 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
+## May 2017
+ - :star: (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
+
+## January 2017
+ - :star: (January 10 - 13) [CodeMash](http://codemash.org) (Sandusky, Ohio) - A unique event that will educate developers on current practices, methodologies, and technology trends in a variety of platforms and development languages such as Java, .NET, Ruby, Python and PHP.
+
+
 ## December 2016
  - (November 28 - December 4) [Techweek: Los Angeles](http://techweek.com/losangeles/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (December 4 - 9) [LISA16](https://www.usenix.org/conference/lisa16) (Boston, MA, USA) - USENIX LISA conference for IT operations, where systems engineers, operations professionals, and academic researchers share real-world knowledge about designing, building, and maintaining the critical systems of our interconnected world.
@@ -22,6 +29,7 @@
  - (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
 
 ## October 2016
+ - (October 6 - 8) [Pixels Camp](http://pixels.camp/) (Lisbon, Portugal) - 3 days of non-stop tech, talks, workshops and a 48 hour programming competition
  - (October 10) [dotGo](http://www.dotgo.eu/) (Paris, France) - The European Go conference
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (October 17 - 18) [Polymer Summit 2016](https://www.polymer-project.org/1.0/) (London) - Code labs and talks by the Polymer team
@@ -38,8 +46,11 @@
  - (September 9 - 10) [RustConf](http://rustconf.com/) (Portland, OR) - A day of trainings and a day of talks on the Rust programming language
  - (September 12 - 18) [Techweek: Kansas City](http://techweek.com/kansascity/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - :star: (September 15 - 16) [SymfonyLive](http://london2016.live.symfony.com/) (London, UK) - best practices, experience, knowledge and the latest developments with the framework
+ - :star: (September 13 - 15) [GitHub Universe](http://githubuniverse.com/) (San Francisco, CA) - open source software, community conference focusing on the future of development 
+ - (September 15 - 18) [Node.js Interactive: Europe](http://events.linuxfoundation.org/events/node-interactive-europe) (Amsterdam, Netherlands) - Node.js Interactive Europe 2016
  - (September 17) [RustFest](http://www.rustfest.eu/) (Berlin, Germany) - conference all about the Rust language
  - (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
+ - :star: (September 22) [Bytes](http://www.bytesconf.co.uk/) (Brighton, England) - An affordable, web-industry focused mini-conference raising money for charities.
  - (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
 
 ## August 2016
@@ -80,6 +91,7 @@
  - (May 2 - 8) [Techweek: Detroit](http://techweek.com/detroit/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (May 4 - 6) [RailsConf](http://railsconf.com/) (Kansas City, KS) - Rails and Ruby, with other related frameworks
  - (May 4 - 6) [NG-Conf](https://www.ng-conf.org/#/) (Salt Lake City, Utah) - Angular JS conference
+  - :star: (May 5) [Stir Trek](https://www.stirtrek.com/) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by a movie on opening day.
  - (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
  - (May 16 - 19) [Open Source Convention (OSCON)](http://conferences.oreilly.com/oscon/open-source-us) (Austin, TX) - Discussion around free and open source software
  - (May 20) [DEVit Conference](http://devitconf.org/) (Thessaloniki, Greece) - A 360° world-class software development conference about Frontend, Backend, DevOps and Mobile, organised by the most active, independent, non-profit, local organizations
@@ -115,4 +127,4 @@ This list *needs* the participation of the community.  Know of an upcoming tech 
 
 ` - :star: (<date>) <conference-name-with-link> (<location>) - <short-conference-description>`
 
-> :bulb: add a  - emoji for newly added conferences so that frequent visitors can see what's new.  After, say, a week I'll clear that star to keep it consistent.
+> :bulb: add a ⭐ emoji for newly added conferences so that frequent visitors can see what's new.  After, say, a week I'll clear that star to keep it consistent.
