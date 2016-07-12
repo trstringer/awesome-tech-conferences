@@ -30,6 +30,7 @@
  - :star: (November 31) [JessConf](https://jessconf.org/) (Jessie Island, Cowley Beach, Australia) - single day, two track conference run completely by the community
 
 ## October 2016
+ - (October 6 - 7) [Fronteers](https://fronteers.nl/congres/2016) (Amsterdam, The Netherlands) -  One of Europe’s largest conferences on front-end web development.
  - (October 6 - 8) [Pixels Camp](http://pixels.camp/) (Lisbon, Portugal) - 3 days of non-stop tech, talks, workshops and a 48 hour programming competition
  - (October 10) [dotGo](http://www.dotgo.eu/) (Paris, France) - The European Go conference
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
