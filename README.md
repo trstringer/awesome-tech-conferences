@@ -62,6 +62,7 @@
  - (August 9 - 10) [PDX DevOps Days](http://www.devopsdays.org/events/2016-portland/welcome/) (Portland, OR) - "The conference that brings development and operations together."
  - (August 10 - 12) [Midwest JS](http://www.midwestjs.com/) (Minneapolis, MN) - Midwest JS is a premier technology conference focused on the JavaScript ecosystem.
  - (August 12 - 14) [Code on the Beach](https://www.codeonthebeach.com/) (Atlantic Beach, Florida) - Developer conference at a resort on the beach
+ - :star: (August 18 - 19) [HybridConf](https://hybridconf.net/) (Berlin, Germany) - a conference for all kinds of creators
  - (August 18 - 20) [Abstractions](http://abstractions.io/) (Pittsburgh, PA) - Abstractions is a new conference that brings together everyone involved in modern software development — designers, developers, DevOps, and community leaders — to teach, learn, and connect with each other.
  - (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
 
