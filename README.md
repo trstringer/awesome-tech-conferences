@@ -27,6 +27,7 @@
  - (November 18 - 19) [NodeConf Argentina](https://2016.nodeconf.com.ar/index.html) (Buenos Aires, Argentina) - Node.js conference for all things Node.js and JavaScript
  - (November 28 - 29) [JS Kongress](http://js-kongress.de/) (Munich, Germany) - JavaScript for web, hardware, and games
  - (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
+ - :star: (November 31) [JessConf](https://jessconf.org/) (Jessie Island, Cowley Beach, Australia) - single day, two track conference run completely by the community
 
 ## October 2016
  - (October 6 - 8) [Pixels Camp](http://pixels.camp/) (Lisbon, Portugal) - 3 days of non-stop tech, talks, workshops and a 48 hour programming competition
