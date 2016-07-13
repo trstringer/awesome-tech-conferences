@@ -46,6 +46,7 @@
 ## September 2016
 
  - (September 9 - 10) [RustConf](http://rustconf.com/) (Portland, OR) - A day of trainings and a day of talks on the Rust programming language
+ - :star: (September 9-10) [GDG DevFest Ukraine 2016](https://devfest.gdg.org.ua/) (Ukraine, Lviv) - the biggest Google tech conference in Ukraine, all about Android, Web and Cloud from the world experts!
  - (September 12 - 18) [Techweek: Kansas City](http://techweek.com/kansascity/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - :star: (September 15 - 16) [SymfonyLive](http://london2016.live.symfony.com/) (London, UK) - best practices, experience, knowledge and the latest developments with the framework
  - :star: (September 13 - 15) [GitHub Universe](http://githubuniverse.com/) (San Francisco, CA) - open source software, community conference focusing on the future of development 
