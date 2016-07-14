@@ -66,6 +66,7 @@
  - :star: (August 18 - 19) [HybridConf](https://hybridconf.net/) (Berlin, Germany) - a conference for all kinds of creators
  - (August 18 - 20) [Abstractions](http://abstractions.io/) (Pittsburgh, PA) - Abstractions is a new conference that brings together everyone involved in modern software development — designers, developers, DevOps, and community leaders — to teach, learn, and connect with each other.
  - (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
+ - :star: (August 26) [CloudDevelop](http://www.CloudDevelop.org) (Columbus, OH) - a community conference focusing on the advancement of cloud computing.
 
 ## July 2016
 
