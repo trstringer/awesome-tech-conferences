@@ -1,4 +1,4 @@
-# Awesome Tech Conferences
+﻿# Awesome Tech Conferences
 
 *A curated list of upcoming technical conferences*
 
@@ -51,10 +51,14 @@
  - :star: (September 15 - 16) [SymfonyLive](http://london2016.live.symfony.com/) (London, UK) - best practices, experience, knowledge and the latest developments with the framework
  - :star: (September 13 - 15) [GitHub Universe](http://githubuniverse.com/) (San Francisco, CA) - open source software, community conference focusing on the future of development 
  - (September 15 - 18) [Node.js Interactive: Europe](http://events.linuxfoundation.org/events/node-interactive-europe) (Amsterdam, Netherlands) - Node.js Interactive Europe 2016
+> :bulb: (September 16 - 17) [Droidcon Vienna](https://droidcon.at/) (Vienna, Austria) - Droidcon Vienna will feature more than 20 sessions in three parallel tracks, with over fifteen hours of high-quality content.
  - (September 17) [RustFest](http://www.rustfest.eu/) (Berlin, Germany) - conference all about the Rust language
  - (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
  - :star: (September 22) [Bytes](http://www.bytesconf.co.uk/) (Brighton, England) - An affordable, web-industry focused mini-conference raising money for charities.
+- :star: (September 22) [Droidcon Moscow](http://droidcon.moscow/en/) (Moscow, Russia) - Droidcon Moscow is Android development conference.
  - (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
+- :star: (September 29 - 30) [Droidcon NYC](http://droidcon.nyc/) (New York, USA) - Droidcon USA is Android development conference.
+
 
 ## August 2016
 
@@ -67,6 +71,8 @@
  - (August 18 - 20) [Abstractions](http://abstractions.io/) (Pittsburgh, PA) - Abstractions is a new conference that brings together everyone involved in modern software development — designers, developers, DevOps, and community leaders — to teach, learn, and connect with each other.
  - (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
  - :star: (August 26) [CloudDevelop](http://www.CloudDevelop.org) (Columbus, OH) - a community conference focusing on the advancement of cloud computing.
+- :star: (August 26) [AndroidSummit](http://androidsummit.org/) (McLean, VA, USA) - Android Summit 2016 is a two-day, multi-track event focused on designing, developing and testing for Android.
+
 
 ## July 2016
 
