@@ -78,7 +78,7 @@
 
 
 ## July 2016
- 
+
  - (July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
  - (July 11 - 13) [GopherCon](https://gophercon.com/) (Denver, CO) - Largest event in the world dedicated to the Go programming language
  - :star: (July 15 - 16) [Codestock](http://www.codestock.org/) (Knoxville, TN) - Independent community driven developer conference.
