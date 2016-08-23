@@ -5,6 +5,9 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
+## June 2017
+- :star: (June 1 - 2) [RevolutionConf](http://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.
+
 ## May 2017
  - :star: (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
 
