@@ -81,6 +81,7 @@
 
  - (July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
  - (July 11 - 13) [GopherCon](https://gophercon.com/) (Denver, CO) - Largest event in the world dedicated to the Go programming language
+ - :star: (July 15 - 16) [Codestock](http://www.codestock.org/) (Knoxville, TN) - Independent community driven developer conference.
  - (July 17 - 24) [EuroPython](https://ep2016.europython.eu/) (Bilbao, Spain) - the largest Python conference in Europe
  - (July 18 - 20) [DjangoCon](https://2016.djangocon.us/) (Philadelphia, PA) - Django conference for the community by the community
  - (July 22 - 23) [Open Source & Feelings](http://www.osfeels.com/) (Seattle, WA) - the intersection between software and humanities, as well as community engagement
