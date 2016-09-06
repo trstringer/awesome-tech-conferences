@@ -11,6 +11,9 @@
 ## May 2017
  - :star: (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
 
+## March 2017
+ - :star: (March 25) [ScaleConf Colombia](http://scaleconfco.com/) (Medellin, Colombia) - Connecting the Latin American region around scalability, DevOps and modern software tools and practices.
+
 ## January 2017
  - :star: (January 10 - 13) [CodeMash](http://codemash.org) (Sandusky, Ohio) - A unique event that will educate developers on current practices, methodologies, and technology trends in a variety of platforms and development languages such as Java, .NET, Ruby, Python and PHP.
 
@@ -23,6 +26,7 @@
 ## November 2016
 
  - (November 3 - 4) [Thunder Plains](http://thunderplainsconf.com/) (Oklahoma City, OK) - Thunder Plains is a web and mobile developer conference organized by Techlahoma. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
+ - :star: (November 7) [EmpireNode](http://empirenode.org/) (NY, New York) - NYC'S Largest community run Node.JS conference is back in office.
  - (November 7 - 13) [Techweek: Miami](http://techweek.com/miami/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (November 7 - 8) [Velocity](http://conferences.oreilly.com/velocity/devops-web-performance-eu) (Amsterdam, The Netherlands) - web performance, DevOps, web ops sessions surrounding resilient web apps
  - (November 11 - 12) [SeaGL](http://seagl.org/) (Seattle, Washington, USA) - All things GNU/Linux and free/libre/open-source software/hardware. Diverse audience, from hobbyists and students to experts.
@@ -34,6 +38,7 @@
 
 ## October 2016
  - (October 6 - 7) [Fronteers](https://fronteers.nl/congres/2016) (Amsterdam, The Netherlands) -  One of Europe’s largest conferences on front-end web development.
+ - :star: (October 7 - 8) [JSConf Colombia](http://jsconf.co/) (Medellin, Colombia) - Bringing the JavaScript community under one roof in Colombia.
  - (October 6 - 8) [Pixels Camp](http://pixels.camp/) (Lisbon, Portugal) - 3 days of non-stop tech, talks, workshops and a 48 hour programming competition
  - (October 10) [dotGo](http://www.dotgo.eu/) (Paris, France) - The European Go conference
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
