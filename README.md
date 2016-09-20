@@ -12,6 +12,7 @@
  - :star: (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
 
 ## March 2017
+ - :star: (March 9) [DevConf](http://www.devconf.co.za) (Johannesburg, South Africa) - You & 700 of your closet friends meet to discuss all things software dev
  - :star: (March 25) [ScaleConf Colombia](http://scaleconfco.com/) (Medellin, Colombia) - Connecting the Latin American region around scalability, DevOps and modern software tools and practices.
 
 ## February 2017
