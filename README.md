@@ -57,6 +57,7 @@
  - (October 28 - 28) [Reactive Conf](https://reactiveconf.com/) (Bratislava, Slovakia) - Web development, JavaScript, and open source software from industry leaders
  - (October 27 - 28) [Rust Belt Rust](http://www.rust-belt-rust.com/) (Pittsburgh, PA) - a conference for all levels of Rust developers
  - (October 28 - 29) [WebCamp Zagreb 2016](https://2016.webcampzg.org/) (Zagreb, Croatia) - Technology oriented conference for developers & designers
+ - (October 28) [Keep Ruby Weird 2016](https://keeprubyweird.com/) (Austin, TX) - Austin's Ruby conference
 
 ## September 2016
 
