@@ -50,6 +50,7 @@
  - (October 10) [dotGo](http://www.dotgo.eu/) (Paris, France) - The European Go conference
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (October 17 - 18) [Polymer Summit 2016](https://www.polymer-project.org/1.0/) (London) - Code labs and talks by the Polymer team
+ - (October 20 - 21) [Little Rock Tech Fest 2016](http://lrtechfest.com) (Little Rock, AR) - Two days of learning, networking and fun for web and software developers
  - (October 22) [Node.js Italian Conference](http://nodejsconf.it/) (Italy) - 5th edition
  - (October 25 - 28) [SQL PASS Summit](http://www.sqlpass.org/summit/2016/Welcome.aspx) (Seattle, WA) - the world's largest gathering of SQL Server and BI professionals
  - (October 25 - 28) [OpenStack Summit](https://www.openstack.org/summit/barcelona-2016/) (Barcelona, Spain) - A five-day conference for developers, users, and administrators of OpenStack Cloud Software
