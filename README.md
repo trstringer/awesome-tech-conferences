@@ -10,6 +10,7 @@
 
 ## May 2017
  - :star: (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
+ - :star: (May 20-21) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
 
 ## March 2017
  - :star: (March 9) [DevConf](http://www.devconf.co.za) (Johannesburg, South Africa) - You & 700 of your closet friends meet to discuss all things software dev
@@ -66,7 +67,7 @@
  - :star: (September 9-10) [GDG DevFest Ukraine 2016](https://devfest.gdg.org.ua/) (Ukraine, Lviv) - the biggest Google tech conference in Ukraine, all about Android, Web and Cloud from the world experts!
  - (September 12 - 18) [Techweek: Kansas City](http://techweek.com/kansascity/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - :star: (September 15 - 16) [SymfonyLive](http://london2016.live.symfony.com/) (London, UK) - best practices, experience, knowledge and the latest developments with the framework
- - :star: (September 13 - 15) [GitHub Universe](http://githubuniverse.com/) (San Francisco, CA) - open source software, community conference focusing on the future of development 
+ - :star: (September 13 - 15) [GitHub Universe](http://githubuniverse.com/) (San Francisco, CA) - open source software, community conference focusing on the future of development
  - (September 15 - 18) [Node.js Interactive: Europe](http://events.linuxfoundation.org/events/node-interactive-europe) (Amsterdam, Netherlands) - Node.js Interactive Europe 2016
 > :bulb: (September 16 - 17) [Droidcon Vienna](https://droidcon.at/) (Vienna, Austria) - Droidcon Vienna will feature more than 20 sessions in three parallel tracks, with over fifteen hours of high-quality content.
  - (September 17) [RustFest](http://www.rustfest.eu/) (Berlin, Germany) - conference all about the Rust language
