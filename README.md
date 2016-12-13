@@ -6,22 +6,22 @@
 ***
 
 ## June 2017
-- :star: (June 1 - 2) [RevolutionConf](http://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.
+- (June 1 - 2) [RevolutionConf](http://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.
 
 ## May 2017
- - :star: (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
- - :star: (May 5-6) [CodeStock](http://www.codestock.org/) (Knoxville, TN) - CodeStock is a two-day technology conference for developers, IT professionals, and entrepreneurs. In 2017 it will host over 75 speakers presenting on over 100 topics that span the gamut from best practice enterprise software development to cutting edge web techniques to managing a technical entrepreneurial endeavor.
- - :star: (May 20-21) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
+ - (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
+ - (May 5-6) [CodeStock](http://www.codestock.org/) (Knoxville, TN) - CodeStock is a two-day technology conference for developers, IT professionals, and entrepreneurs. In 2017 it will host over 75 speakers presenting on over 100 topics that span the gamut from best practice enterprise software development to cutting edge web techniques to managing a technical entrepreneurial endeavor.
+ - (May 20-21) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
 
 ## March 2017
- - :star: (March 9) [DevConf](http://www.devconf.co.za) (Johannesburg, South Africa) - You & 700 of your closet friends meet to discuss all things software dev
- - :star: (March 25) [ScaleConf Colombia](http://scaleconfco.com/) (Medellin, Colombia) - Connecting the Latin American region around scalability, DevOps and modern software tools and practices.
+ - (March 9) [DevConf](http://www.devconf.co.za) (Johannesburg, South Africa) - You & 700 of your closet friends meet to discuss all things software dev
+ - (March 25) [ScaleConf Colombia](http://scaleconfco.com/) (Medellin, Colombia) - Connecting the Latin American region around scalability, DevOps and modern software tools and practices.
 
 ## February 2017
-- :star: (February 24 - 25) [GopherCon India](http://www.gophercon.in/) (Hyatt Regency, Nagar Road, Pune)
+- (February 24 - 25) [GopherCon India](http://www.gophercon.in/) (Hyatt Regency, Nagar Road, Pune)
 
 ## January 2017
- - :star: (January 10 - 13) [CodeMash](http://codemash.org) (Sandusky, Ohio) - A unique event that will educate developers on current practices, methodologies, and technology trends in a variety of platforms and development languages such as Java, .NET, Ruby, Python and PHP.
+ - (January 10 - 13) [CodeMash](http://codemash.org) (Sandusky, Ohio) - A unique event that will educate developers on current practices, methodologies, and technology trends in a variety of platforms and development languages such as Java, .NET, Ruby, Python and PHP.
 
 
 ## December 2016
@@ -34,7 +34,7 @@
 
  - (November 3 - 4) [Thunder Plains](http://thunderplainsconf.com/) (Oklahoma City, OK) - Thunder Plains is a web and mobile developer conference organized by Techlahoma. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
  - (November 4 - 5) [GopherCon Brasil](https://2016.gopherconbr.org) (Florianópolis, SC, Brasil) - Brazil's largest event dedicated to Go.
- - :star: (November 7) [EmpireNode](http://empirenode.org/) (NY, New York) - NYC'S Largest community run Node.JS conference is back in office.
+ - (November 7) [EmpireNode](http://empirenode.org/) (NY, New York) - NYC'S Largest community run Node.JS conference is back in office.
  - (November 7 - 13) [Techweek: Miami](http://techweek.com/miami/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (November 7 - 8) [Velocity](http://conferences.oreilly.com/velocity/devops-web-performance-eu) (Amsterdam, The Netherlands) - web performance, DevOps, web ops sessions surrounding resilient web apps
  - (November 11 - 12) [SeaGL](http://seagl.org/) (Seattle, Washington, USA) - All things GNU/Linux and free/libre/open-source software/hardware. Diverse audience, from hobbyists and students to experts.
@@ -43,11 +43,11 @@
  - (November 18 - 19) [NodeConf Argentina](https://2016.nodeconf.com.ar/index.html) (Buenos Aires, Argentina) - Node.js conference for all things Node.js and JavaScript
  - (November 28 - 29) [JS Kongress](http://js-kongress.de/) (Munich, Germany) - JavaScript for web, hardware, and games
  - (November 29 - 30) [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) (Austin, TX) - JavaScript and Node.js
- - :star: (November 31) [JessConf](https://jessconf.org/) (Jessie Island, Cowley Beach, Australia) - single day, two track conference run completely by the community
+ - (November 31) [JessConf](https://jessconf.org/) (Jessie Island, Cowley Beach, Australia) - single day, two track conference run completely by the community
 
 ## October 2016
  - (October 6 - 7) [Fronteers](https://fronteers.nl/congres/2016) (Amsterdam, The Netherlands) -  One of Europe’s largest conferences on front-end web development.
- - :star: (October 7 - 8) [JSConf Colombia](http://jsconf.co/) (Medellin, Colombia) - Bringing the JavaScript community under one roof in Colombia.
+ - (October 7 - 8) [JSConf Colombia](http://jsconf.co/) (Medellin, Colombia) - Bringing the JavaScript community under one roof in Colombia.
  - (October 6 - 8) [Pixels Camp](http://pixels.camp/) (Lisbon, Portugal) - 3 days of non-stop tech, talks, workshops and a 48 hour programming competition
  - (October 10) [dotGo](http://www.dotgo.eu/) (Paris, France) - The European Go conference
  - (October 10 - 16) [Techweek: New York](http://techweek.com/newyork/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
@@ -65,18 +65,18 @@
 ## September 2016
 
  - (September 9 - 10) [RustConf](http://rustconf.com/) (Portland, OR) - A day of trainings and a day of talks on the Rust programming language
- - :star: (September 9-10) [GDG DevFest Ukraine 2016](https://devfest.gdg.org.ua/) (Ukraine, Lviv) - the biggest Google tech conference in Ukraine, all about Android, Web and Cloud from the world experts!
+ - (September 9-10) [GDG DevFest Ukraine 2016](https://devfest.gdg.org.ua/) (Ukraine, Lviv) - the biggest Google tech conference in Ukraine, all about Android, Web and Cloud from the world experts!
  - (September 12 - 18) [Techweek: Kansas City](http://techweek.com/kansascity/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
- - :star: (September 15 - 16) [SymfonyLive](http://london2016.live.symfony.com/) (London, UK) - best practices, experience, knowledge and the latest developments with the framework
- - :star: (September 13 - 15) [GitHub Universe](http://githubuniverse.com/) (San Francisco, CA) - open source software, community conference focusing on the future of development
+ - (September 15 - 16) [SymfonyLive](http://london2016.live.symfony.com/) (London, UK) - best practices, experience, knowledge and the latest developments with the framework
+ - (September 13 - 15) [GitHub Universe](http://githubuniverse.com/) (San Francisco, CA) - open source software, community conference focusing on the future of development
  - (September 15 - 18) [Node.js Interactive: Europe](http://events.linuxfoundation.org/events/node-interactive-europe) (Amsterdam, Netherlands) - Node.js Interactive Europe 2016
 > :bulb: (September 16 - 17) [Droidcon Vienna](https://droidcon.at/) (Vienna, Austria) - Droidcon Vienna will feature more than 20 sessions in three parallel tracks, with over fifteen hours of high-quality content.
  - (September 17) [RustFest](http://www.rustfest.eu/) (Berlin, Germany) - conference all about the Rust language
  - (September 18 - 20) [WriteTheDocs EU](http://www.writethedocs.org/conf/eu/2016/) (Prague, Czech Republic) - Explore the art and science of documentation in Europe
- - :star: (September 22) [Bytes](http://www.bytesconf.co.uk/) (Brighton, England) - An affordable, web-industry focused mini-conference raising money for charities.
-- :star: (September 22) [Droidcon Moscow](http://droidcon.moscow/en/) (Moscow, Russia) - Droidcon Moscow is Android development conference.
+ - (September 22) [Bytes](http://www.bytesconf.co.uk/) (Brighton, England) - An affordable, web-industry focused mini-conference raising money for charities.
+- (September 22) [Droidcon Moscow](http://droidcon.moscow/en/) (Moscow, Russia) - Droidcon Moscow is Android development conference.
  - (September 22 - 25) [EuroBSDCon](https://2016.eurobsdcon.org/) (Belgrade, Serbian Republic) - the premier European conference on the open source BSD operating systems
-- :star: (September 29 - 30) [Droidcon NYC](http://droidcon.nyc/) (New York, USA) - Droidcon USA is Android development conference.
+- (September 29 - 30) [Droidcon NYC](http://droidcon.nyc/) (New York, USA) - Droidcon USA is Android development conference.
 
 
 ## August 2016
@@ -86,18 +86,18 @@
  - (August 9 - 10) [PDX DevOps Days](http://www.devopsdays.org/events/2016-portland/welcome/) (Portland, OR) - "The conference that brings development and operations together."
  - (August 10 - 12) [Midwest JS](http://www.midwestjs.com/) (Minneapolis, MN) - Midwest JS is a premier technology conference focused on the JavaScript ecosystem.
  - (August 12 - 14) [Code on the Beach](https://www.codeonthebeach.com/) (Atlantic Beach, Florida) - Developer conference at a resort on the beach
- - :star: (August 18 - 19) [HybridConf](https://hybridconf.net/) (Berlin, Germany) - a conference for all kinds of creators
+ - (August 18 - 19) [HybridConf](https://hybridconf.net/) (Berlin, Germany) - a conference for all kinds of creators
  - (August 18 - 20) [Abstractions](http://abstractions.io/) (Pittsburgh, PA) - Abstractions is a new conference that brings together everyone involved in modern software development — designers, developers, DevOps, and community leaders — to teach, learn, and connect with each other.
  - (August 25 - 26) [React Rally](http://reactrally.com) (Salt Lake City, UT) - a community React conference
- - :star: (August 26) [CloudDevelop](http://www.CloudDevelop.org) (Columbus, OH) - a community conference focusing on the advancement of cloud computing.
-- :star: (August 26) [AndroidSummit](http://androidsummit.org/) (McLean, VA, USA) - Android Summit 2016 is a two-day, multi-track event focused on designing, developing and testing for Android.
+ - (August 26) [CloudDevelop](http://www.CloudDevelop.org) (Columbus, OH) - a community conference focusing on the advancement of cloud computing.
+- (August 26) [AndroidSummit](http://androidsummit.org/) (McLean, VA, USA) - Android Summit 2016 is a two-day, multi-track event focused on designing, developing and testing for Android.
 
 
 ## July 2016
 
  - (July 10 - 12) [.NET Fringe](http://dotnetfringe.org/) (Portland, OR) - .NET and Open Source
  - (July 11 - 13) [GopherCon](https://gophercon.com/) (Denver, CO) - Largest event in the world dedicated to the Go programming language
- - :star: (July 15 - 16) [Codestock](http://www.codestock.org/) (Knoxville, TN) - Independent community driven developer conference.
+ - (July 15 - 16) [Codestock](http://www.codestock.org/) (Knoxville, TN) - Independent community driven developer conference.
  - (July 17 - 24) [EuroPython](https://ep2016.europython.eu/) (Bilbao, Spain) - the largest Python conference in Europe
  - (July 18 - 20) [DjangoCon](https://2016.djangocon.us/) (Philadelphia, PA) - Django conference for the community by the community
  - (July 22 - 23) [Open Source & Feelings](http://www.osfeels.com/) (Seattle, WA) - the intersection between software and humanities, as well as community engagement
@@ -122,7 +122,7 @@
  - (May 2 - 8) [Techweek: Detroit](http://techweek.com/detroit/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - (May 4 - 6) [RailsConf](http://railsconf.com/) (Kansas City, KS) - Rails and Ruby, with other related frameworks
  - (May 4 - 6) [NG-Conf](https://www.ng-conf.org/#/) (Salt Lake City, Utah) - Angular JS conference
-  - :star: (May 5) [Stir Trek](https://www.stirtrek.com/) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by a movie on opening day.
+  - (May 5) [Stir Trek](https://www.stirtrek.com/) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by a movie on opening day.
  - (May 11 - 13) [GeeCON](http://2016.geecon.org/) (Kraków, Poland) - Everything around the JVM's ecosystem
  - (May 16 - 19) [Open Source Convention (OSCON)](http://conferences.oreilly.com/oscon/open-source-us) (Austin, TX) - Discussion around free and open source software
  - (May 20) [DEVit Conference](http://devitconf.org/) (Thessaloniki, Greece) - A 360° world-class software development conference about Frontend, Backend, DevOps and Mobile, organised by the most active, independent, non-profit, local organizations
