@@ -161,4 +161,4 @@ This list *needs* the participation of the community.  Know of an upcoming tech 
 
 ` - :star: (<date>) <conference-name-with-link> (<location>) - <short-conference-description>`
 
-> :bulb: add a  emoji for newly added conferences so that frequent visitors can see what's new.  After, say, a week I'll clear that star to keep it consistent.
+> :bulb: add a ⭐ emoji for newly added conferences so that frequent visitors can see what's new.  After, say, a week I'll clear that star to keep it consistent.
