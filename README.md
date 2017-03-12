@@ -8,6 +8,12 @@
 ## December 2017
 - ⭐ (December 1 - 2) [DevTernity](http://devternity.com) (Riga, Latvia, EU) - DevTernity is the best and the biggest language-agnostic software development conference in the Baltic states. 
 
+## October 2017
+- (October 4-6) [GHC17](https://ghc.anitaborg.org/) (Orlando, FL) - The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists.
+
+## July 2017
+- (July 9-16) [EuroPython](http://ep2017.europython.eu/) (Rimini, Italy) - The European Python Conference.
+
 ## June 2017
 - (June 1 - 2) [RevolutionConf](http://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.
 
