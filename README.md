@@ -18,6 +18,8 @@
 - (June 1 - 2) [RevolutionConf](http://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.
 
 ## May 2017
+ - (May 2–4) [Red Hat Summit](https://www.redhat.com/en/summit/2017) (Boston, MA) - Red Hat Summit is for anyone interested in open source.
+ - (May 8-11) [OpenStack Summit](https://www.openstack.org/summit/boston-2017/) (Boston, MA) - The Open infrastructure event. 
  - (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
  - (May 5-6) [CodeStock](http://www.codestock.org/) (Knoxville, TN) - CodeStock is a two-day technology conference for developers, IT professionals, and entrepreneurs. In 2017 it will host over 75 speakers presenting on over 100 topics that span the gamut from best practice enterprise software development to cutting edge web techniques to managing a technical entrepreneurial endeavor.
  - (May 20-21) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
