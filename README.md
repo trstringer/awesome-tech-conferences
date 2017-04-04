@@ -24,6 +24,7 @@
  - (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
  - (May 5-6) [CodeStock](http://www.codestock.org/) (Knoxville, TN) - CodeStock is a two-day technology conference for developers, IT professionals, and entrepreneurs. In 2017 it will host over 75 speakers presenting on over 100 topics that span the gamut from best practice enterprise software development to cutting edge web techniques to managing a technical entrepreneurial endeavor.
  - (May 20-21) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
+ - ⭐(May 24-25) [SIGNAL](http://twilio.com/signal) (San Francisco, CA) - Each talk, each session, each line of code at SIGNAL is designed to help you hone your craft. After learning with your peers & wielding new Twilio tools, celebrate at $bash - the after party that will transport you to The World's Fair of the Future.  
 
 ## March 2017
  - (March 9) [DevConf](http://www.devconf.co.za) (Johannesburg, South Africa) - You & 700 of your closet friends meet to discuss all things software dev
