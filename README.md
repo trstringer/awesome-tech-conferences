@@ -1,4 +1,4 @@
-﻿# Awesome Tech Conferences
+# Awesome Tech Conferences
 
 *A curated list of upcoming technical conferences*
 
@@ -16,6 +16,7 @@
 - (October 4-6) [GHC17](https://ghc.anitaborg.org/) (Orlando, FL) - The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists.
 
 ## July 2017
+- (July 6-7) [AngularCamp](https://angularcamp.org/) (Barcelona, Spain) - AngularCamp is a collaborative community event for all people which are interested in coming together to share their recent work in a collaborative manner.
 - (July 9-16) [EuroPython](http://ep2017.europython.eu/) (Rimini, Italy) - The European Python Conference.
 
 ## June 2017
