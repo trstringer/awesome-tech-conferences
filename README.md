@@ -8,6 +8,9 @@
 ## December 2017
 - ⭐ (December 1 - 2) [DevTernity](http://devternity.com) (Riga, Latvia, EU) - DevTernity is the best and the biggest language-agnostic software development conference in the Baltic states. 
 
+## November 2017
+- ⭐ (November 13 - 14) [JS Kongress 2017](https://js-kongress.de/) (Munich, Germany, EU) - The Community Driven Conference about the Future of JavaScript.
+
 ## October 2017
 - ⭐(October 13-14)[GDG DevFest Ukraine 2017](https://devfest.gdg.org.ua/) (Lviv, Ukraine) - The biggest Google tech conference in CEE. All about Android, Web, and Cloud.
 - (October 4-6) [GHC17](https://ghc.anitaborg.org/) (Orlando, FL) - The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists.
