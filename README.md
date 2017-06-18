@@ -12,8 +12,12 @@
 - ⭐ (November 13 - 14) [JS Kongress 2017](https://js-kongress.de/) (Munich, Germany, EU) - The Community Driven Conference about the Future of JavaScript.
 
 ## October 2017
-- ⭐(October 13-14)[GDG DevFest Ukraine 2017](https://devfest.gdg.org.ua/) (Lviv, Ukraine) - The biggest Google tech conference in CEE. All about Android, Web, and Cloud.
-- (October 4-6) [GHC17](https://ghc.anitaborg.org/) (Orlando, FL) - The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists.
+- ⭐ (October 13-14)[GDG DevFest Ukraine 2017](https://devfest.gdg.org.ua/) (Lviv, Ukraine) - The biggest Google tech conference in CEE. All about Android, Web, and Cloud.
+- ⭐ (October 4-6) [GHC17](https://ghc.anitaborg.org/) (Orlando, FL) - The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists.
+
+## September 2017
+- ⭐ (September 20-23) [ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/) (Atlanta, GA ) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
+- ⭐ (September 23-24) [GDG DevFest Siberia](https://gdg-siberia.com/) (Novosibirsk, Russia) - DevFest Siberia is a part of the IT conference series around the world for developers, managers, students. It is organized by a non-profit community Google Developers Group.
 
 ## July 2017
 - (July 6-7) [AngularCamp](https://angularcamp.org/) (Barcelona, Spain) - AngularCamp is a collaborative community event for all people which are interested in coming together to share their recent work in a collaborative manner.
@@ -21,6 +25,7 @@
 
 ## June 2017
 - (June 1 - 2) [RevolutionConf](http://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.
+- (June 23-25) [Data Intelligence Conference](http://www.data-intelligence.ai/) (McLean, VA) - The first machine learning gathering for the community using and developing machine learning and data intelligence.
 
 ## May 2017
  - (May 2–4) [Red Hat Summit](https://www.redhat.com/en/summit/2017) (Boston, MA) - Red Hat Summit is for anyone interested in open source.
