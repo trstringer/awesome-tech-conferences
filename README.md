@@ -19,6 +19,9 @@
 - ⭐ (September 20-23) [ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/) (Atlanta, GA ) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
 - ⭐ (September 23-24) [GDG DevFest Siberia](https://gdg-siberia.com/) (Novosibirsk, Russia) - DevFest Siberia is a part of the IT conference series around the world for developers, managers, students. It is organized by a non-profit community Google Developers Group.
 
+## September 2017
+- ⭐(September 29-30) [The Conf](http://www.theconf.club/) (São Paulo, Brazil) - An international tech conference in Brazil to show off the high quality of Latin American programmers to the world
+
 ## July 2017
 - (July 6-7) [AngularCamp](https://angularcamp.org/) (Barcelona, Spain) - AngularCamp is a collaborative community event for all people which are interested in coming together to share their recent work in a collaborative manner.
 - (July 9-16) [EuroPython](http://ep2017.europython.eu/) (Rimini, Italy) - The European Python Conference.
