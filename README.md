@@ -5,6 +5,9 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
+## May 2018
+- :star: (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!
+
 ## December 2017
 - ⭐ (December 1 - 2) [DevTernity](http://devternity.com) (Riga, Latvia, EU) - DevTernity is the best and the biggest language-agnostic software development conference in the Baltic states. 
 
