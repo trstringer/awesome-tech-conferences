@@ -13,6 +13,8 @@
 
 ## November 2017
 - ⭐ (November 13 - 14) [JS Kongress 2017](https://js-kongress.de/) (Munich, Germany, EU) - The Community Driven Conference about the Future of JavaScript.
+- ⭐ (November 11 - 13) [OpenCon 2017](http://www.opencon2017.org/) (Berlin, Germany, EU) - To advance Open Access, Open Education, and Open Data policies around the world.
+
 
 ## October 2017
 - ⭐ (October 13-14)[GDG DevFest Ukraine 2017](https://devfest.gdg.org.ua/) (Lviv, Ukraine) - The biggest Google tech conference in CEE. All about Android, Web, and Cloud.
