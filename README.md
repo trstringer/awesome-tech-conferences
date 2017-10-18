@@ -4,11 +4,16 @@
 
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
+## August 2018
+- :star: (August 27-30) [GopherCon](https://gophercon.com/) (Denver, CO) - Focused on everything Golang. 
+
 ## June 2018
 - :star: (June 12-14) [DockerCon](http://2018.dockercon.com/) (San Francisco, CA) - The container conference for the Docker Community 
+- :star: (June 4-6) [Monitorama](http://monitorama.com) (Portland, OR) - Popular conference about anything related to monitoring, metrics and tracing.
 
 ## May 2018
 - :star: (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!
+- :star: (May 9-17) [PyCon 2018](https://us.pycon.org/2018) (Cleveland, OH) - Premier Python conference. Split into three parts - tutorial, conference and sprint days. 
 
 ## February 2018
 - 🌟 (February 10 – 11) [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) (Minsk, Belarus, EU) – 2 day of Front-end, JavaScript and IT related talks and workshops
@@ -20,8 +25,8 @@
 - ⭐ (November 13 - 14) [JS Kongress 2017](https://js-kongress.de/) (Munich, Germany, EU) - The Community Driven Conference about the Future of JavaScript.
 - ⭐ (November 11 - 13) [OpenCon 2017](http://www.opencon2017.org/) (Berlin, Germany, EU) - To advance Open Access, Open Education, and Open Data policies around the world.
 
-
 ## October 2017
+- :star: (October 29–November 3) [LISA17](https://www.usenix.org/conference/lisa17) (San Francisco, CA) - A large Operations and Systems Engineering focused conference. Separate training and conferences days.
 - ⭐ (October 13-14)[GDG DevFest Ukraine 2017](https://devfest.gdg.org.ua/) (Lviv, Ukraine) - The biggest Google tech conference in CEE. All about Android, Web, and Cloud.
 - ⭐ (October 4-6) [GHC17](https://ghc.anitaborg.org/) (Orlando, FL) - The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists.
 
