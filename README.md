@@ -4,6 +4,11 @@
 
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
+
+## September 2018
+- :star: (September 19-22) [Tapia 2018](http://tapiaconference.org/) (Orlando, FL) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
+- :star: (September 26–28) [GHC-18](https://ghc.anitab.org/) (Houston, TX) - Grace Hopper Celebration is the world's largest gathering of women technologists!
+
 ## August 2018
 - :star: (August 27-30) [GopherCon](https://gophercon.com/) (Denver, CO) - Focused on everything Golang. 
 
@@ -13,7 +18,8 @@
 
 ## May 2018
 - :star: (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!
-- :star: (May 9-17) [PyCon 2018](https://us.pycon.org/2018) (Cleveland, OH) - Premier Python conference. Split into three parts - tutorial, conference and sprint days. 
+- :star: (May 9-17) [PyCon 2018](https://us.pycon.org/2018) (Cleveland, OH) - Premier Python conference. Split into three parts - tutorial, conference and sprint days.
+- :star: (May 4-5) [CodelandConf 2018](http://codelandconf.com/) (NYC) - A CodeNewBie conference for community of programmers and people learning to code
 
 ## February 2018
 - 🌟 (February 10 – 11) [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) (Minsk, Belarus, EU) – 2 day of Front-end, JavaScript and IT related talks and workshops
