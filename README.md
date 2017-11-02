@@ -17,7 +17,7 @@
 - :star: (June 4-6) [Monitorama](http://monitorama.com) (Portland, OR) - Popular conference about anything related to monitoring, metrics and tracing.
 
 ## April 2018
-- :star: (April 24-26) [RedisConf18](http://www.redisconf.com)(San Francisco, CA) - The largest gathering of Redis users and experts.
+- :star: (April 24-26) [RedisConf18](http://www.redisconf.com) (San Francisco, CA) - The largest gathering of Redis users and experts.
 
 ## May 2018
 - :star: (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!
