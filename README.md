@@ -24,6 +24,9 @@
 ## February 2018
 - 🌟 (February 10 – 11) [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) (Minsk, Belarus, EU) – 2 day of Front-end, JavaScript and IT related talks and workshops
 
+## January 2018
+- :star: (January 27-30) [Applied Machine Learning Days](https://www.appliedmldays.org/) (EPFL, Lausanne, Switzerland) - Four days of talks and tutorials on Machine Learning and Artificial Intelligence with top speakers from around the world.
+
 ## December 2017
 - ⭐ (December 1 - 2) [DevTernity](http://devternity.com) (Riga, Latvia, EU) - DevTernity is the best and the biggest language-agnostic software development conference in the Baltic states. 
 
