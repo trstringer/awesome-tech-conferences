@@ -18,6 +18,7 @@
 
 ## April 2018
 - :star: (April 24-26) [RedisConf18](http://www.redisconf.com) (San Francisco, CA) - The largest gathering of Redis users and experts.
+- :star: (April 27-28) [ScaleConf Colombia](http://www.scaleconfco.com) (Medellin, Colombia) - a language-agnostic conference scalability, distributed systems, DevOps and modern software tools and practices.
 
 ## May 2018
 - :star: (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!
