@@ -14,6 +14,7 @@
 
 ## June 2018
 - :star: (June 12-14) [DockerCon](http://2018.dockercon.com/) (San Francisco, CA) - The container conference for the Docker Community 
+- :star: (June 10-11) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
 - :star: (June 4-6) [Monitorama](http://monitorama.com) (Portland, OR) - Popular conference about anything related to monitoring, metrics and tracing.
 
 ## April 2018
