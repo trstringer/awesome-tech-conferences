@@ -17,15 +17,15 @@
 - :star: (June 10-11) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
 - :star: (June 4-6) [Monitorama](http://monitorama.com) (Portland, OR) - Popular conference about anything related to monitoring, metrics and tracing.
 
-## April 2018
-- :star: (April 24-26) [RedisConf18](http://www.redisconf.com) (San Francisco, CA) - The largest gathering of Redis users and experts.
-- :star: (April 27-28) [ScaleConf Colombia](http://www.scaleconfco.com) (Medellin, Colombia) - a language-agnostic conference scalability, distributed systems, DevOps and modern software tools and practices.
-
 ## May 2018
 - :star: (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!
 - :star: (May 9-17) [PyCon 2018](https://us.pycon.org/2018) (Cleveland, OH) - Premier Python conference. Split into three parts - tutorial, conference and sprint days.
 - :star: (May 4-5) [CodelandConf 2018](http://codelandconf.com/) (NYC) - A CodeNewBie conference for community of programmers and people learning to code
 - :star: (May 4) [Stir Trek: Infinity War](http://stirtrek.com/) (Columbus, OH) - 2,000 software developers converge on a movie theater for a day packed with 48 great talks and a movie.
+
+## April 2018
+- :star: (April 24-26) [RedisConf18](http://www.redisconf.com) (San Francisco, CA) - The largest gathering of Redis users and experts.
+- :star: (April 27-28) [ScaleConf Colombia](http://www.scaleconfco.com) (Medellin, Colombia) - a language-agnostic conference scalability, distributed systems, DevOps and modern software tools and practices.
 
 ## February 2018
 - 🌟 (February 10 – 11) [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) (Minsk, Belarus, EU) – 2 day of Front-end, JavaScript and IT related talks and workshops
