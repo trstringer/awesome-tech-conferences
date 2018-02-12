@@ -25,6 +25,7 @@
 - :star: (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!
 - :star: (May 9-17) [PyCon 2018](https://us.pycon.org/2018) (Cleveland, OH) - Premier Python conference. Split into three parts - tutorial, conference and sprint days.
 - :star: (May 4-5) [CodelandConf 2018](http://codelandconf.com/) (NYC) - A CodeNewBie conference for community of programmers and people learning to code
+- :star: (May 4) [Stir Trek: Infinity War](http://stirtrek.com/) (Columbus, OH) - 2,000 software developers converge on a movie theater for a day packed with 48 great talks and a movie.
 
 ## February 2018
 - 🌟 (February 10 – 11) [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) (Minsk, Belarus, EU) – 2 day of Front-end, JavaScript and IT related talks and workshops
