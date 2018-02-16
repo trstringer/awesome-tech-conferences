@@ -27,6 +27,9 @@
 - :star: (April 24-26) [RedisConf18](http://www.redisconf.com) (San Francisco, CA) - The largest gathering of Redis users and experts.
 - :star: (April 27-28) [ScaleConf Colombia](http://www.scaleconfco.com) (Medellin, Colombia) - a language-agnostic conference scalability, distributed systems, DevOps and modern software tools and practices.
 
+## March 2018
+- :star: (March 8-11) [SCALE](https://www.socallinuxexpo.org) (Los Angeles, CA) - SCaLE is the largest community-run open-source and free software conference in North America.
+
 ## February 2018
 - 🌟 (February 10 – 11) [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) (Minsk, Belarus, EU) – 2 day of Front-end, JavaScript and IT related talks and workshops
 
