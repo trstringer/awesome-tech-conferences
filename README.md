@@ -12,6 +12,9 @@
 ## August 2018
 - :star: (August 27-30) [GopherCon](https://gophercon.com/) (Denver, CO) - Focused on everything Golang. 
 
+## July 2018
+- :star: (July 11-12) [Dash](https://www.dashcon.io/) (New York, NY) - Speed up, Scale up!
+
 ## June 2018
 - :star: (June 12-14) [DockerCon](http://2018.dockercon.com/) (San Francisco, CA) - The container conference for the Docker Community 
 - :star: (June 10-11) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
