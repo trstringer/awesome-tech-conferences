@@ -27,6 +27,7 @@
 - :star: (May 4) [Stir Trek: Infinity War](http://stirtrek.com/) (Columbus, OH) - 2,000 software developers converge on a movie theater for a day packed with 48 great talks and a movie.
 
 ## April 2018
+- :star: (April 21) [DSConf](https://dsconf.in/) (Pune, IN) - a language-agnostic conference to discuss the best prctises and future of Distributed Systems
 - :star: (April 24-26) [RedisConf18](http://www.redisconf.com) (San Francisco, CA) - The largest gathering of Redis users and experts.
 - :star: (April 27-28) [ScaleConf Colombia](http://www.scaleconfco.com) (Medellin, Colombia) - a language-agnostic conference scalability, distributed systems, DevOps and modern software tools and practices.
 
