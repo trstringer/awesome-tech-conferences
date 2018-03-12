@@ -5,6 +5,9 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
+## October 2018
+- :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
+
 ## September 2018
 - :star: (September 19-22) [Tapia 2018](http://tapiaconference.org/) (Orlando, FL) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
 - :star: (September 26–28) [GHC-18](https://ghc.anitab.org/) (Houston, TX) - Grace Hopper Celebration is the world's largest gathering of women technologists!
