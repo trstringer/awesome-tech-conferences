@@ -5,6 +5,10 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
+## November 2018
+- :star: (November 9) [dotJS 2018](https://www.dotjs.io) (Paris, France) - The largest JavaScript conference in Europe
+- :star: (November 8) [dotCSS 2018](https://www.dotcss.io) (Paris, France) - The largest CSS conference in Europe
+
 ## October 2018
 - :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
 
@@ -22,8 +26,10 @@
 - :star: (June 12-14) [DockerCon](http://2018.dockercon.com/) (San Francisco, CA) - The container conference for the Docker Community 
 - :star: (June 10-11) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
 - :star: (June 4-6) [Monitorama](http://monitorama.com) (Portland, OR) - Popular conference about anything related to monitoring, metrics and tracing.
+- :star: (June 1) [dotScale 2018](https://www.dotscale.io) (Paris, France) - The European Tech Conference on Scalability
 
 ## May 2018
+- :star: (May 31) [dotAI 2018](https://www.dotai.io) (Paris, France) - The Artificial Intelligence Conference for Developers
 - :star: (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!
 - :star: (May 9-17) [PyCon 2018](https://us.pycon.org/2018) (Cleveland, OH) - Premier Python conference. Split into three parts - tutorial, conference and sprint days.
 - :star: (May 4-5) [CodelandConf 2018](http://codelandconf.com/) (NYC) - A CodeNewBie conference for community of programmers and people learning to code
