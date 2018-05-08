@@ -12,10 +12,12 @@
 
 ## October 2018
 - :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
+- :star: (Oct 17-19) [CONNECT.TECH](https://connect.tech) (ATLANTA GA, USA) - The largest web and mobile development conference in teh SE. React, Angular, Node, Vue, Core JS, Mobile Native, Mobile Frameworks and much much more
 
 ## September 2018
 - :star: (September 19-22) [Tapia 2018](http://tapiaconference.org/) (Orlando, FL) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
 - :star: (September 26–28) [GHC-18](https://ghc.anitab.org/) (Houston, TX) - Grace Hopper Celebration is the world's largest gathering of women technologists!
+- :star: (September 6-7) [BlockChainConf](http://blockchainconf.tech) (Atlanta, GA, USA) - A developer-focused Blockchain conference  for software engineers interested in or building applications that leverage decentralized data, decentralized ownership, decentralized identity, decentralized infrastructure and software.
 
 ## August 2018
 - :star: (August 27-30) [GopherCon](https://gophercon.com/) (Denver, CO) - Focused on everything Golang. 
