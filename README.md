@@ -11,6 +11,7 @@
 - :star: (November 8) [dotCSS 2018](https://www.dotcss.io) (Paris, France) - The largest CSS conference in Europe
 
 ## October 2018
+- :star: (October 08-11) [JAX London](https://jaxlondon.com) (London, UK) - JAX London is a four-day conference for cutting-edge software engineers and enterprise-level professionals. JAX brings together the world's leading innovators in the fields of JAVA, microservices, continuous delivery and DevOps.
 - :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
 
 ## September 2018
