@@ -12,6 +12,7 @@
 
 ## October 2018
 - :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
+- :star: (Oct 15-19) [Mirror Conf 2018](https://www.mirrorconf.com/) (Braga, Portugal) - A conference that aims to blur the differences and point towards a collaborative future between designers and front-end developers.
 
 ## September 2018
 - :star: (September 19-22) [Tapia 2018](http://tapiaconference.org/) (Orlando, FL) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
