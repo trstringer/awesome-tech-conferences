@@ -6,15 +6,18 @@
 ***
 
 ## November 2018
+- :star: (November 28-30) [DataSciCon.Tech](https://www.datascicon.tech) (Atlanta, GA, USA) - 3 day event on Data Science, Data Analytics, AI and Machine Learning! First day is workshop day, and there will be 2 conference days with 4 concurrent tracks.
 - :star: (November 8-9) [The Big Elixir](https://www.thebigelixir.com) (New Orleans, LA USA) - The Big Elixir is a two-day, single track conference created to help developers take their Elixir skills to the next level. 
 - :star: (November 9) [dotJS 2018](https://www.dotjs.io) (Paris, France) - The largest JavaScript conference in Europe
 - :star: (November 8) [dotCSS 2018](https://www.dotcss.io) (Paris, France) - The largest CSS conference in Europe
 
 ## October 2018
 - :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
+- :star: (October 71-19) [CONNECT.TECH] (http://connect.tech) (Atlanta, GA, USA) - CONNECT.TECH is the Southeast’s premier annual conference dedicated to JavaScript, Web and Mobile related technologies, tools, and frameworks.
 
 ## September 2018
 - :star: (September 19-22) [Tapia 2018](http://tapiaconference.org/) (Orlando, FL) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
+- :star: (September 15-17) [BlockchainConf.Tech](http://blockchainconf.tech/) (Atlanta, GA, USA) - The only Technical Blockchain Conference in teh USA
 - :star: (September 26–28) [GHC-18](https://ghc.anitab.org/) (Houston, TX) - Grace Hopper Celebration is the world's largest gathering of women technologists!
 
 ## August 2018
