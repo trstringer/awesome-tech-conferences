@@ -9,6 +9,7 @@
 - :star: (November 8-9) [The Big Elixir](https://www.thebigelixir.com) (New Orleans, LA USA) - The Big Elixir is a two-day, single track conference created to help developers take their Elixir skills to the next level. 
 - :star: (November 9) [dotJS 2018](https://www.dotjs.io) (Paris, France) - The largest JavaScript conference in Europe
 - :star: (November 8) [dotCSS 2018](https://www.dotcss.io) (Paris, France) - The largest CSS conference in Europe
+- :star: (November 16) [DevFest Baltics 2018](https://devfest2018.gdg.lv/) (Jurmala, Latvia) - The mobile conference of the Baltics
 
 ## October 2018
 - :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
