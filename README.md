@@ -6,6 +6,7 @@
 ***
 
 ## November 2018
+- :star: (November 11-12) [PHP World 2018] (https://world.phparch.com/) (Washington, D.C.) - An event intended to bring the entire world of PHP together in one place.
 - :star: (November 8-9) [The Big Elixir](https://www.thebigelixir.com) (New Orleans, LA USA) - The Big Elixir is a two-day, single track conference created to help developers take their Elixir skills to the next level. 
 - :star: (November 9) [dotJS 2018](https://www.dotjs.io) (Paris, France) - The largest JavaScript conference in Europe
 - :star: (November 8) [dotCSS 2018](https://www.dotcss.io) (Paris, France) - The largest CSS conference in Europe
@@ -19,6 +20,7 @@
 - :star: (September 26–28) [GHC-18](https://ghc.anitab.org/) (Houston, TX) - Grace Hopper Celebration is the world's largest gathering of women technologists!
 
 ## August 2018
+- :star: (August 30-September 3) [CoderCruise 2018] (https://www.codercruise.com/) (Ft. Lauderdale, FL) - A webtech conference on a cruise ship.
 - :star: (August 27-30) [GopherCon](https://gophercon.com/) (Denver, CO) - Focused on everything Golang. 
 
 ## July 2018
