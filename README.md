@@ -5,6 +5,10 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
+## May 2019
+- :star: (May 17-18) [ScaleConf Colombia](https://scaleconfco.com/) (Medellín, Colombia) - A language-agnostic conference to bring knowledge on scalability, distributed systems, DevOps and modern software tools and practices. 
+
+
 ## November 2018
 - :star: (November 8-9) [The Big Elixir](https://www.thebigelixir.com) (New Orleans, LA USA) - The Big Elixir is a two-day, single track conference created to help developers take their Elixir skills to the next level. 
 - :star: (November 9) [dotJS 2018](https://www.dotjs.io) (Paris, France) - The largest JavaScript conference in Europe
