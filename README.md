@@ -15,57 +15,57 @@
 - :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
 
 ## September 2018
-- :star: (September 19-22) [Tapia 2018](http://tapiaconference.org/) (Orlando, FL) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
-- :star: (September 26–28) [GHC-18](https://ghc.anitab.org/) (Houston, TX) - Grace Hopper Celebration is the world's largest gathering of women technologists!
+- (September 19-22) [Tapia 2018](http://tapiaconference.org/) (Orlando, FL) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
+- (September 26–28) [GHC-18](https://ghc.anitab.org/) (Houston, TX) - Grace Hopper Celebration is the world's largest gathering of women technologists!
 
 ## August 2018
-- :star: (August 27-30) [GopherCon](https://gophercon.com/) (Denver, CO) - Focused on everything Golang. 
+- (August 27-30) [GopherCon](https://gophercon.com/) (Denver, CO) - Focused on everything Golang. 
 
 ## July 2018
-- :star: (July 11-12) [Dash](https://www.dashcon.io/) (New York, NY) - Speed up, Scale up!
+- (July 11-12) [Dash](https://www.dashcon.io/) (New York, NY) - Speed up, Scale up!
 
 ## June 2018
-- :star: (June 12-14) [DockerCon](http://2018.dockercon.com/) (San Francisco, CA) - The container conference for the Docker Community 
-- :star: (June 10-11) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
-- :star: (June 4-6) [Monitorama](http://monitorama.com) (Portland, OR) - Popular conference about anything related to monitoring, metrics and tracing.
-- :star: (June 1) [dotScale 2018](https://www.dotscale.io) (Paris, France) - The European Tech Conference on Scalability
+- (June 12-14) [DockerCon](http://2018.dockercon.com/) (San Francisco, CA) - The container conference for the Docker Community 
+- (June 10-11) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
+- (June 4-6) [Monitorama](http://monitorama.com) (Portland, OR) - Popular conference about anything related to monitoring, metrics and tracing.
+- (June 1) [dotScale 2018](https://www.dotscale.io) (Paris, France) - The European Tech Conference on Scalability
 
 ## May 2018
-- :star: (May 31) [dotAI 2018](https://www.dotai.io) (Paris, France) - The Artificial Intelligence Conference for Developers
-- :star: (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!
-- :star: (May 9-17) [PyCon 2018](https://us.pycon.org/2018) (Cleveland, OH) - Premier Python conference. Split into three parts - tutorial, conference and sprint days.
-- :star: (May 4-5) [CodelandConf 2018](http://codelandconf.com/) (NYC) - A CodeNewBie conference for community of programmers and people learning to code
-- :star: (May 4) [Stir Trek: Infinity War](http://stirtrek.com/) (Columbus, OH) - 2,000 software developers converge on a movie theater for a day packed with 48 great talks and a movie.
+- (May 31) [dotAI 2018](https://www.dotai.io) (Paris, France) - The Artificial Intelligence Conference for Developers
+- (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software dent conference in Virginia Beach, VA.  Back for our third year!
+- (May 9-17) [PyCon 2018](https://us.pycon.org/2018) (Cleveland, OH) - Premier Python conference. Split into three parts - tutorial, conference and sprint days.
+- (May 4-5) [CodelandConf 2018](http://codelandconf.com/) (NYC) - A CodeNewBie conference for community of programmers and people learning to code
+- (May 4) [Stir Trek: Infinity War](http://stirtrek.com/) (Columbus, OH) - 2,000 software developers converge on a movie theater for a day packed with 48 great talks and a movie.
 
 ## April 2018
-- :star: (April 21) [DSConf](https://dsconf.in/) (Pune, IN) - a language-agnostic conference to discuss the best practices and future of Distributed Systems
-- :star: (April 24-26) [RedisConf18](http://www.redisconf.com) (San Francisco, CA) - The largest gathering of Redis users and experts.
-- :star: (April 27-28) [ScaleConf Colombia](http://www.scaleconfco.com) (Medellin, Colombia) - a language-agnostic conference scalability, distributed systems, DevOps and modern software tools and practices.
+- (April 21) [DSConf](https://dsconf.in/) (Pune, IN) - a language-agnostic conference to discuss the best practices and future of Distributed Systems
+- (April 24-26) [RedisConf18](http://www.redisconf.com) (San Francisco, CA) - The largest gathering of Redis users and experts.
+- (April 27-28) [ScaleConf Colombia](http://www.scaleconfco.com) (Medellin, Colombia) - a language-agnostic conference scalability, distributed systems, DevOps and modern software tools and practices.
 
 ## March 2018
-- :star: (March 8-11) [SCALE](https://www.socallinuxexpo.org) (Los Angeles, CA) - SCaLE is the largest community-run open-source and free software conference in North America.
+- (March 8-11) [SCALE](https://www.socallinuxexpo.org) (Los Angeles, CA) - SCaLE is the largest community-run open-source and free software conference in North America.
 
 ## February 2018
-- 🌟 (February 10 – 11) [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) (Minsk, Belarus, EU) – 2 day of Front-end, JavaScript and IT related talks and workshops
+- (February 10 – 11) [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) (Minsk, Belarus, EU) – 2 day of Front-end, JavaScript and IT related talks and workshops
 
 ## January 2018
-- :star: (January 27-30) [Applied Machine Learning Days](https://www.appliedmldays.org/) (EPFL, Lausanne, Switzerland) - Four days of talks and tutorials on Machine Learning and Artificial Intelligence with top speakers from around the world.
+- (January 27-30) [Applied Machine Learning Days](https://www.appliedmldays.org/) (EPFL, Lausanne, Switzerland) - Four days of talks and tutorials on Machine Learning and Artificial Intelligence with top speakers from around the world.
 
 ## December 2017
-- ⭐ (December 1 - 2) [DevTernity](http://devternity.com) (Riga, Latvia, EU) - DevTernity is the best and the biggest language-agnostic software development conference in the Baltic states. 
+- (December 1 - 2) [DevTernity](http://devternity.com) (Riga, Latvia, EU) - DevTernity is the best and the biggest language-agnostic software development conference in the Baltic states. 
 
 ## November 2017
-- ⭐ (November 13 - 14) [JS Kongress 2017](https://js-kongress.de/) (Munich, Germany, EU) - The Community Driven Conference about the Future of JavaScript.
-- ⭐ (November 11 - 13) [OpenCon 2017](http://www.opencon2017.org/) (Berlin, Germany, EU) - To advance Open Access, Open Education, and Open Data policies around the world.
+- (November 13 - 14) [JS Kongress 2017](https://js-kongress.de/) (Munich, Germany, EU) - The Community Driven Conference about the Future of JavaScript.
+- (November 11 - 13) [OpenCon 2017](http://www.opencon2017.org/) (Berlin, Germany, EU) - To advance Open Access, Open Education, and Open Data policies around the world.
 
 ## October 2017
-- :star: (October 29–November 3) [LISA17](https://www.usenix.org/conference/lisa17) (San Francisco, CA) - A large Operations and Systems Engineering focused conference. Separate training and conferences days.
-- ⭐ (October 13-14)[GDG DevFest Ukraine 2017](https://devfest.gdg.org.ua/) (Lviv, Ukraine) - The biggest Google tech conference in CEE. All about Android, Web, and Cloud.
-- ⭐ (October 4-6) [GHC17](https://ghc.anitaborg.org/) (Orlando, FL) - The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists.
+- (October 29–November 3) [LISA17](https://www.usenix.org/conference/lisa17) (San Francisco, CA) - A large Operations and Systems Engineering focused conference. Separate training and conferences days.
+- (October 13-14)[GDG DevFest Ukraine 2017](https://devfest.gdg.org.ua/) (Lviv, Ukraine) - The biggest Google tech conference in CEE. All about Android, Web, and Cloud.
+- (October 4-6) [GHC17](https://ghc.anitaborg.org/) (Orlando, FL) - The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists.
 
 ## September 2017
-- ⭐ (September 20-23) [ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/) (Atlanta, GA ) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
-- ⭐ (September 23-24) [GDG DevFest Siberia](https://gdg-siberia.com/) (Novosibirsk, Russia) - DevFest Siberia is a part of the IT conference series around the world for developers, managers, students. It is organized by a non-profit community Google Developers Group.
+- (September 20-23) [ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/) (Atlanta, GA ) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
+- (September 23-24) [GDG DevFest Siberia](https://gdg-siberia.com/) (Novosibirsk, Russia) - DevFest Siberia is a part of the IT conference series around the world for developers, managers, students. It is organized by a non-profit community Google Developers Group.
 
 ## July 2017
 - (July 6-7) [AngularCamp](https://angularcamp.org/) (Barcelona, Spain) - AngularCamp is a collaborative community event for all people which are interested in coming together to share their recent work in a collaborative manner.
@@ -81,7 +81,7 @@
  - (May 5) [Stir Trek](http://stirtrek.com) (Columbus, OH) - All the latest technology in web/mobile/ux/cloud, followed by "Guardians of the Galaxy 2" on its opening day with 2,000 of your closest friends.
  - (May 5-6) [CodeStock](http://www.codestock.org/) (Knoxville, TN) - CodeStock is a two-day technology conference for developers, IT professionals, and entrepreneurs. In 2017 it will host over 75 speakers presenting on over 100 topics that span the gamut from best practice enterprise software development to cutting edge web techniques to managing a technical entrepreneurial endeavor.
  - (May 20-21) [DEVit Web Conference](http://devitconf.org/) (Thessaloniki, Greece) - Each year we meticulously vet and select remarkable speakers to deliver the best talks on web development. Whether it's Frontend, Backend, DevOps or Mobile that you care about, join us to learn about the most modern practices and techniques. A truly 360° conference! Organised by the most active, independent, non-profit, local organizations.
- - ⭐(May 24-25) [SIGNAL](http://twilio.com/signal) (San Francisco, CA) - Each talk, each session, each line of code at SIGNAL is designed to help you hone your craft. After learning with your peers & wielding new Twilio tools, celebrate at $bash - the after party that will transport you to The World's Fair of the Future.  
+ - (May 24-25) [SIGNAL](http://twilio.com/signal) (San Francisco, CA) - Each talk, each session, each line of code at SIGNAL is designed to help you hone your craft. After learning with your peers & wielding new Twilio tools, celebrate at $bash - the after party that will transport you to The World's Fair of the Future.  
 
 ## March 2017
  - (March 9) [DevConf](http://www.devconf.co.za) (Johannesburg, South Africa) - You & 700 of your closet friends meet to discuss all things software dev
