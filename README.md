@@ -5,6 +5,9 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
+## May 2019
+- :star: (May 13-15) [International JavaScript Conference](https://javascript-conference.com) (London, UK) - At the iJS you will meet internationally known JavaScript experts who share their knowledge in vanilla JavaScript as well as the most important JS frameworks. 
+
 ## November 2018
 - :star: (November 8-9) [The Big Elixir](https://www.thebigelixir.com) (New Orleans, LA USA) - The Big Elixir is a two-day, single track conference created to help developers take their Elixir skills to the next level. 
 - :star: (November 9) [dotJS 2018](https://www.dotjs.io) (Paris, France) - The largest JavaScript conference in Europe
