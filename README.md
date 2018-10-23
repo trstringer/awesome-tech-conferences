@@ -12,6 +12,7 @@
 - :star: (November 16) [DevFest Baltics 2018](https://devfest2018.gdg.lv/) (Jurmala, Latvia) - The mobile conference of the Baltics
 
 ## October 2018
+- :star: (October 08-11) [JAX London](https://jaxlondon.com) (London, UK) - JAX London is a four-day conference for cutting-edge software engineers and enterprise-level professionals. JAX brings together the world's leading innovators in the fields of JAVA, microservices, continuous delivery and DevOps.
 - :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
 
 ## September 2018
