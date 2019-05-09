@@ -13,6 +13,7 @@
 
 ## October 2018
 - :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
+- :star: (Oct 17-18) [Ember{{fest}}](https://emberfest.eu) (Copenhagen, Denmark) - EmberFest is the European Community Ember Conference.
 
 ## September 2018
 - :star: (September 19-22) [Tapia 2018](http://tapiaconference.org/) (Orlando, FL) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
