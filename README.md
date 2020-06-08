@@ -4,8 +4,10 @@
 
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
+## June 2020
+- ⭐ (June 27-28) [Git Commit Show](https://gitcommit.show) (Online, Worldwide) - The Git Commit Show is a global dev conference, free of cost, with great speakers and a chance for you to showcase your work, all from the comfort of your home!   
 
-## November 2018
+## November 2018 
 - :star: (November 8-9) [The Big Elixir](https://www.thebigelixir.com) (New Orleans, LA USA) - The Big Elixir is a two-day, single track conference created to help developers take their Elixir skills to the next level. 
 - :star: (November 9) [dotJS 2018](https://www.dotjs.io) (Paris, France) - The largest JavaScript conference in Europe
 - :star: (November 8) [dotCSS 2018](https://www.dotcss.io) (Paris, France) - The largest CSS conference in Europe
